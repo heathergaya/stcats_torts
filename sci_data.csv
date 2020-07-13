@@ -1,0 +1,476 @@
+﻿ID,Sex,Cohort,Treatcode,Treatment,Cap_Year,Date,Recap,MOC,Area,Burrow_no,Old or new?,Wt (g),MCL_mm,Stage,Dead,Comments
+1,I,2005,headstart,headstart,2006,13-Jun-06,RELEASE,release,E,N/A,new,82,72,J,,"FROM GLYNN MIDDLE SCHOOL; HATCHED FALL 2005; RELEASED WITH TRANS (0.084KG); FREQ 149.489, ATTACHED ON ANTERIOR CARAPACE; BILATERAL TOENAIL SPLAYING; TRANSPONDER PLACED IN LEFT INGUINAL AREA"
+1,I,2005,headstart,headstart,2010,10-Sep-10,yes,trap,E,E56,,530,139,S,,FRESHENED NOTCHES;2005 YOY
+1,I,2005,headstart,headstart,2012,13-May-12,yes,trap,E,E56,,840,164,S,,"Transmitter attached: frequency 165.368, transmitter # 174315, iButton attached 14 June 2012"
+1,I,2005,headstart,headstart,2012,24-Sep-12,yes,trap,E,E56,,1173,,S,,"Old iButton failed; replaced with 5D0000002E07CF21 (starts logging 15 Oct 2012, every 120 minutes). Old transmitter 177836, new freq. 166.734. Tortoise released 1 Oct 2012, at 16:00."
+1,I,2005,headstart,headstart,2013,8-Apr-13,yes,trap,E,E56,NA,1245,155,S,,Downloaded ibutton data (reset 4/9/13 @ midnight) and repaired antennae shealthing on transmitter.
+3,I,2005,headstart,headstart,2006,13-Jun-06,RELEASE,release,E,N/A,new,84,72,J,,FROM GLYNN MIDDLE SCHOOL; HATCHED FALL 2005; RELEASED WITH TRANS (0.091KG); FREQ 149.528; TRANSMITTER #112559; TRANSPONDER PLACED IN LEFT INGUINAL; TRANSMITTER ON 1ST VERTEBRAL
+3,I,2005,headstart,headstart,2008,17-Jun-08,Yes,trap,E,E24,,292,108,J,,Annuli measured for growth rate.  Fat and healthy!; GREEN PAINT ON CARAPACE
+3,I,2005,headstart,headstart,2010,12-Sep-10,Yes,trap,E,E25,,1001,179,S,,"Carapace--green paint on center of the 5th vertebral, freshened marks; 2005 YOY;"
+7,I,2005,headstart,headstart,2006,13-Jun-06,RELEASE,release,E,N/A,new,82,75,J,,FROM GLYNN MIDDLE SCHOOL; HATCHED FALL 2005; RELEASED WITH TRANS #112555; FREQ 149.449;
+7,I,2005,headstart,headstart,2008,12-Jun-08,Yes,trap,E,E25,,304,122,J,,"Annuli measured for growth rate.  Appears healthy!  PCV=25%, TS=1.9"
+7,I,2005,headstart,headstart,2010,22-Jul-10,yes,trap,E,E38,,960,170,S,,mild keratin wear ON PLASTRON
+7,I,2005,headstart,headstart,2012,19-Jun-12,yes,trap,E,E78,,1592,217,S,,"Transmitter attached: frequency 165.551, transmitter # 175793, iButton attached 21 June 2012. Weight with transmitter is 1.565kg."
+7,I,2005,headstart,headstart,2012,29-Sep-12,yes,trap,E,E78,,1897,,S,,"Cattracker #2 added (start oct 1, 2012). Old iButton failed; replaced with new iButton # E10000002E049B21 (set to start 15 Oct 2012, every 120 minutes). Release 30 Sept 2012 @16:30."
+7,I,2005,headstart,headstart,2013,24-May-13,yes,trap,E,E78,na,1780,230,S,,"Very hard to make age estimate at this point. New transmitter attached 174313 freq 165.216, best at .215. New ibutton attaches 800000002E2AF021."
+8,I,2005,headstart,headstart,2006,13-Jun-06,RELEASE,release,E,N/A,new,76,72,J,,FROM GLYNN MIDDLE SCHOOL; HATCHED FALL 2005; RELEASED WITH TRANS #112558 (.084KG); FREQ 149.505; WAS PREVIOUSLY #4 IN CAPTIVITY BUT COULD NOT NOTCH #4 SCUTE ON BRIDGE; TRANSMITTER PLACED ON 1ST INGUINAL
+8,I,2005,headstart,headstart,2009,3-Oct-09,YES,trap,E,E, ,503,143,S,,LOOKS HEALTHY
+8,I,2005,headstart,headstart,2010,8-Sep-10,yes,trap,E,E54,,773,165,S,,freshened notches; 2005 YOY - HEADSTART BY GLYNN MIDDLE SCHOOL
+8,I,2005,headstart,headstart,2013,25-Jul-13,yes,trap,E,E54,na,1780,224,S,,"Missing scales and minor damage to nails on both front limbs (broken nail tips).  Worn scute on first vertebral scute. Plastron wear on most scutes approximately on the ""birth"" zone of the scute. A fecal float was done for parasites. Blood and a nsal flush were done for mycoplasma testing."
+9,I,2005,headstart,headstart,2006,13-Jun-06,RELEASE,release,E,N/A,new,100,80,J,,FROM GLYNN MIDDLE SCHOOL; HATCHED FALL 2005; RELEASED WITH TRANS (.110KG); FREQ 149.390; WAS PREVIOUSLY ID'D AS #5 (PAINT ID ONLY) IN CAPTIVITY BUT COULD NOT NOTCH BRIDGE
+9,I,2005,headstart,headstart,2007,9-Jun-07,YES,trap,C,NEW 13C,,163,96,J,,WT IS WITH RADIO 
+9,I,2005,headstart,headstart,2010,11-Sep-10,yes,trap,E,E22,,921,182,S,,freshened notches; 2005 YOY - HEADSTART BY GLYNN MIDDLE SCHOOL
+10,I,2006,headstart,headstart,2007,23-Mar-07,YES,release,E,,,87,71,J,,"2006 HATCHLING REARED IN LAB, RELEASED 2007 IN E AREA; clutch 2; From burrow A92, clutch ID 2-1; see clutch notes regarding confusion for individuals #1 & 2 from clutch; "
+11,I,2006,headstart,headstart,2007,23-Mar-07,YES,release,E,,,96,74,J,,"2006 HATCHLING REARED IN LAB, RELEASED 2007 IN E AREA; clutch 2; 2006 Hatchling,  From burrow A92, clutch ID 2-2; see clutch notes regarding confusion for individuals #1 & 2 from clutch;"
+12,I,2006,headstart,headstart,2007,23-Mar-07,YES,release,E,,,70,67,H,,"2006 HATCHLING REARED IN LAB, RELEASED 2007 IN E AREA; CLUTCH 2; 2006 Hatchling.  From burrow A92, clutch id 2-3;  Note in electronic databases said ""hatchling from 2007 also marked 12 - WHERE ARE DATA FOR 2007 HATCHLING?""; however, I think that confusion because 2007 record for the 2006 cohort hatchling that was measured in 2007 prior to release"
+13,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,24,44,H,,"2007 Hatchling, incubated and released.  From burrow A68.  Clutch ID 14-3"
+16,I,2006,headstart,headstart,2007,23-Mar-07,YES,release,E,,,56,53,H,,"2006 HATCHLING from Burrrow A92, clutch id 2-4; REARED IN LAB, RELEASED 2007 IN E AREA; CLUTCH 2"
+17,I,2006,headstart,headstart,2007,23-Mar-07,YES,release,E,,,72,68,H,,"2006 HATCHLING REARED IN LAB, RELEASED 2007 IN E AREA; CLUTCH 2; From burrow A92, clutch id 2-5;"
+18,I,2006,headstart,headstart,2007,23-Mar-07,YES,release,E,,,64,68,H,,"2006 HATCHLING REARED IN LAB, RELEASED 2007 IN E AREA; CLUTCH 2;  From burrow A92, clutch id 2-6;"
+18,I,2006,headstart,headstart,2008,11-Jun-08,Yes,trap,E,E33,,124,89,J,,Annuli measured for growth rate.
+18,I,2006,headstart,headstart,2009,1-Oct-09,YES,trap,E,E, ,377,128,J,,"CARAPACE LENGTH & TOTAL LENGTH ARE SAME; WPT 76 IN TRACEY'S GPS - WGS84, NAD83, ZONE 17R: 3505094, 0486814; TWO MISSING SCALES ON R FORELIMB AT JOINT; "
+18,I,2006,headstart,headstart,2010,14-Sep-10,Yes,trap,E,ET-1?,,559,147,S,,"2006 YOY, HEADSTART RELEASED 2007; DOUBLE CHECKED CL & TL MEASUREMENTS"
+18,I,2006,headstart,headstart,2011,6-Jun-11,yes,trap,E,E34,,679,156,S,,
+18,I,2006,headstart,headstart,2012,16-May-12,Yes,trap,E,E70,,925,174,S,,"Transmitter attached: frequency 165.088, transmitter # 174312, iButton attached. Weight after transmitter is 0.890 (after defication). "
+18,I,2006,headstart,headstart,2012,21-Sep-12,yes,trap,E,E62,,1184,,S,,"added new iButton # 6E0000002ED4C321 (starts logging 15 Oct 2012, every 120min). New transmitter #177840, new freq 166.982. Rleased 1 Oct 2012, @ 16:00."
+18,I,2006,headstart,headstart,2013,2-Apr-13,yes,trap,E,E62,na,1221,196,S,,Missing most proximal nail on Right Front leg. On left front leg old injury to scale. New iButton attached C60000002E17A021
+19,I,2006,headstart,headstart,2007,23-Mar-07,YES,release,E,,,65,65,H,,"2006 HATCHLING REARED IN LAB, RELEASED 2007 IN E AREA; CLUTCH 2?; 3RD VERTEBRAL SPLIT; From burrow A92, clutch id 2-7; "
+20,I,2006,headstart,headstart,2007,23-Mar-07,YES,release,E,,,81,72,J,,"2006 HATCHLING REARED IN LAB, RELEASED 2007 IN E AREA; CLUTCH 2; From burrow A92, clutch id 2-8; 2-8? DATA SHEET SAYS 2-6 BUT IS ALREADY ANOTHER 2-6"
+21,I,2006,headstart,headstart,2007,23-Mar-07,YES,release,E,,,85,73,J,,"2006 HATCHLING REARED IN LAB, RELEASED 2007 IN E AREA; CLUTCH 8 ; From burrow A77, nest collected on 13 Sept 2006; clutch id 8-1"
+22,I,2006,headstart,headstart,2007,23-Mar-07,YES,release,E,,,88,73,J,,"2006 HATCHLING REARED IN LAB, RELEASED 2007 IN E AREA; CLUTCH 8; From burrow A77, nest collected on 13 Sept 2006; clutch id 8-2"
+23,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,38,54,H,,"2007 Hatchling, incubated and released.  CLUTCH ID 3-3; From Burrow A122"
+26,I,2006,headstart,headstart,2007,23-Mar-07,YES,release,E,,,76,69,J,,"2006 HATCHLING REARED IN LAB, RELEASED 2007 IN E AREA; CLUTCH 8; From burrow A77, nest collected on 13 Sept 2006; clutch id 8-3;"
+27,I,2006,headstart,headstart,2007,23-Mar-07,YES,release,E,,,97,75,J,,"2006 HATCHLING REARED IN LAB, RELEASED 2007 IN E AREA; CLUTCH 8; #9 SCUTE VERY REDUCED (TRIANGULAR); From burrow A77, nest collected on 13 Sept 2006; clutch id 8-4; #9 scute greatly reduced"
+28,I,2006,headstart,headstart,2007,23-Mar-07,YES,release,E,,,88,73,J,,"2006 HATCHLING REARED IN LAB, RELEASED 2007 IN E AREA; CLUTCH 8; From burrow A77, nest collected on 13 Sept 2006; clutch id 8-5; "
+29,I,2006,headstart,headstart,2007,23-Mar-07,YES,release,E,,,77,72,H,,"2006 HATCHLING REARED IN LAB, RELEASED 2007 IN E AREA; CLUTCH 8; From burrow A77, nest collected on 13 Sept 2006; clutch id 8-6;"
+30,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,26,47,H,,"2007 Hatchling, incubated and released.  Clutch ID 14-1.  From burrow A68."
+31,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,36,50,H,,"2007 Hatchling, incubated and released.  Clutch ID 6-1.  From burrow A88."
+33,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,32,51,H,,"2007 Hatchling, incubated and released.  Clutch ID 12-7.  From burrow A102."
+36,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,22,41,H,,"2007 Hatchling, incubated and released.  Clutch ID 14-6.  From Burrow A68."
+37,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,22,45,H,,"2007 Hatchling, incubated and released.  Clutch ID 14-7.  From Burrow A68."
+38,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,34,49,H,,"2007 Hatchling, incubated and released. Eggs from female 159; CLUTCH ID 4-3;"
+39,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,38,53,H,,"2007 Hatchling, incubated and released.  Clutch ID 12-1.  From Burrow A102."
+40,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,32,58,H,,"2007 Hatchling, incubated and released.  From female 129.  Clutch 16 ID 16-1."
+41,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,30,48,H,,"2007 Hatchling, incubated and released.  Clutch ID 10-3, burrow C?"
+41,I,2007,Non,direct_release,2008,14-Jul-08,YES,trap,C,C86,,38,57,H,,Chubby!
+42,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,36,51,H,,"2007 Hatchling, incubated and released.  Clutch ID 12-2.  From burrow A102."
+43,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,32,49,H,,"2007 Hatchling, incubated and released.   Clutch ID 18-2, from Lefty."
+46,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,24,45,H,,"2007 Hatchling, incubated and released.  Clutch ID 14-9.  From burrow A68."
+46,I,2007,Non,direct_release,2008,30-Jul-08,YES,hand,A,near A75,,50,64,H,,Seems healthy!
+47,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,22,44,H,,"2007 Hatchling, incubated and released.  Clutch  ID 14-8.  From burrow A68."
+48,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,22,44,H,,"2007 Hatchling, incubated and released.  Clutch ID 14-4.  From burrow A68."
+49,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,26,47,H,,"2007 Hatchling, incubated and released.  Clutch ID 10-6, burrow C?; DENT ON RIGHT SIDE OF CARAPACE"
+306,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,, ,,38,52,H,,"2007 Hatchling, incubated and released.  From burrow A122, clutch ID 3-2."
+306,I,2007,Non,direct_release,2010,12-Sep-10,yes,trap,C,C94,,436,139,S,,carapace paint indicates 2nd individual of clutch
+307,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,32,50,H,,"2007 Hatchling, incubated and released.  From burrow A122, clutch ID 3-7."
+308,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,40,54,H,,"2007 Hatchling, incubated and released.  From burrow A122, clutch ID 3-8."
+309,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,38,53,H,,"2007 Hatchling, incubated and released.  From burrow A122, clutch ID 3-1."
+309,I,2007,Non,direct_release,2009,2-Jul-09,YES,trap,C,C-J1,,169,103,J,,"IF ID IS CORRECT, IS A 2007 HATCHLING; LOOKS HEALTHY; IS A QUESTION MARK BESIDE ID - NOT SURE WHY; COMPARE PHOTOGRAPHS; PROBABLY NO PHOTOS FROM ORIGINAL CAPTURE TO USE TO ID"
+310,I,2006,headstart,headstart,2007,23-Mar-07,YES,release,E,,,71,67,H,,"2006 HATCHLING REARED IN LAB, RELEASED 2007 IN E AREA; CLUTCH 8; From burrow A77, from nest collected 13 Sept 2006; clutch id 8-7;"
+311,I,2006,headstart,headstart,2007,23-Mar-07,YES,release,E,,,66,64,H,,"2006 HATCHLING REARED IN LAB, RELEASED 2007 IN E AREA; CLUTCH 8; From burrow A77, from nest collected 13 Sept 2006; clutch id 8-8"
+312,I,2006,headstart,headstart,2007,23-Mar-07,YES,release,E,,,82,70,H,,"2006 HATCHLING REARED IN LAB, RELEASED 2007 IN E AREA; CLUTCH 8; From burrow A77, from nest collected 13 Sept 2006; clutch id 8-9;"
+313,I,2007,Non,direct_release,2007,2-Oct-07,NO,release,,,,47,47,H,,"2007 Hatchling, incubated and released.  From burrow A97, clutch ID 9-6."
+316,I,2006,headstart,headstart,2007,23-Mar-07,YES,release,E,,,53,62,H,,"2006 HATCHLING REARED IN LAB, RELEASED 2007 IN E AREA; CLUTCH 1;  From female 423, clutch id 1-1;"
+317,I,2006,headstart,headstart,2007,23-Mar-07,YES,release,,,,51,59,H,,"HATCHLING REARED IN LAB; CLUTCH 1;  From female 423, clutch id 1-2;"
+318,I,2006,headstart,headstart,2007,23-Mar-07,YES,release,E,,,53,61,H,,"2006 HATCHLING REARED IN LAB, RELEASED 2007 IN E AREA; CLUTCH 1; From female 423, clutch id 1-3;"
+319,I,2006,headstart,headstart,2007,23-Mar-07,YES,release,E,,,57,62,H,,"2006 HATCHLING REARED IN LAB, RELEASED 2007 IN E AREA; CLUTCH 5 - BUT READ NOTE FROM PREV CAPTURE; #1 SCUTE ALSO MARKED;  From female 423, clutch 1. (clutch ID based on carapace 5-1 but none of clutch 5 eggs hatched; think must be from clutch 1; re-assigning this turtle to clutch 1 makes the hatchling number match clutch size for clutch 1 and accounts for the missing hatchlings from that clutch); confirm with blood samples; also ID error when marking - notched #300, 10, 9 + 1 scutes - fix when remarking in spring"
+320,I,2006,headstart,headstart,2007,23-Mar-07,YES,release,E,,,54,61,H,,"2006 HATCHLING REARED IN LAB, RELEASED 2007 IN E AREA; CLUTCH 5 - BUT READ COMMENT FROM PREV CAPTURE; 2006 Hatchling.  From female 423, clutch 1. (clutch id 5-2 based on carapace paint but none of clutch 5 eggs hatched; think must be from clutch 1; re-assigning this turtle to clutch 1 makes the hatchling number match clutch size for clutch 1 and accounts for the missing hatchlings from that clutch); confirm clutch ID with blood samples; "
+321,I,2006,headstart,headstart,2007,23-Mar-07,YES,release,E,,,66,67,H,,"2006 HATCHLING REARED IN LAB, RELEASED 2007 IN E AREA; CLUTCH 5 - BUT READ COMMENT FROM PREV CAPTURE; From female 423, clutch 1. (clutch id 5-3 based on painting on carapace but none of clutch 5 eggs hatched; think must be from clutch 1; re-assigning this turtle to clutch 1 makes the hatchling number match clutch size for clutch 1 and accounts for the missing hatchlings from that clutch); confirm clutch with blood sample"
+322,I,2006,headstart,headstart,2007,23-Mar-07,YES,release,E,,,55,63,H,,"2006 HATCHLING REARED IN LAB, RELEASED 2007 IN E AREA; CLUTCH 5; From female 423, clutch 1. (clutch id 5-4 based on painting on carapace but none of clutch 5 eggs hatched; think must be from clutch 1; re-assigning this turtle to clutch 1 makes the hatchling number match clutch size for clutch 1 and accounts for the missing hatchlings from that clutch); confirm clutch with blood sample"
+323,I,2007,Non,direct_release,2007,2-Oct-07,NO,release,,,,31,39,H,,"2007 Hatchling, incubated and released.  From female 414, clutch ID 15-2."
+326,I,2006,headstart,headstart,2007,23-Mar-07,YES,release,E,,,54,62,H,,"2006 HATCHLING REARED IN LAB, RELEASED 2007 IN E AREA; CLUTCH 5 - BUT READ NOTE FROM PREV CAPTURE; From female 423, clutch 1. (clutch id 5-5 based on painting on carapace but none of clutch 5 eggs hatched; think must be from clutch 1; re-assigning this turtle to clutch 1 makes the hatchling number match clutch size for clutch 1 and accounts for the missing hatchlings from that clutch); confirm clutch with blood sample"
+327,I,2006,headstart,headstart,2007,23-Mar-07,YES,release,E,,,64,65,H,,"2006 HATCHLING REARED IN LAB, RELEASED 2007 IN E AREA; CLUTCH 4 - BUT SEE NOTE FROM PREV CAPTURE; 7 VERTEBRALS;  (CLUTCH ID NOT CONFIRMED; CARAPACE MARKED WITH CLUTCH ID 4;PROBABLY FROM CLUTCH 3 OR 4); 7 VERTEBRALS"
+328,H,2006,headstart,headstart,2006,27-Sep-06,N,release,,,,38,52,H,,"Hatched 2006.  (missing hatchling?; NO CLUTCH ID ASSIGNED, PROBABLY CLUTCH 3 OR 4; HATCHLING ID OF 1); HERE ARE MAR 2007 MEASUREMENTS PRIOR TO RELEASE? Delete this record after get the mar 2007 record"
+329,I,2006,headstart,headstart,2007,23-Mar-07,YES,release,E,,,78,71,J,,"2006 HATCHLING REARED IN LAB, RELEASED 2007 IN E AREA; NO CLUTCH # WRITTEN ON CARAPACE; 9missing hatchling?; NO CLUTCH ID ASSIGNED, PROBABLY CLUTCH 3 OR 4)"
+330,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,34,49,H,,"2007 Hatchling, incubated and released.  From burrow A122, clutch ID 3-4; ONLY 10 SCUTES ON LEFT SIDE;#300 SCUTE BY COUNTING FORWARD FROM ANAL SCUTE"
+331,I,2007,Non,direct_release,2007,2-Oct-07,NO,release,,,,47,46,H,,"2007 Hatchling, incubated and released.  From burrow A97, clutch ID 9-1."
+331,I,2007,Non,direct_release,2008,14-Jul-08,YES,trap,C,C85,,60,65,J,,carapace--extra vertebral scute (6 total). Fat!; XTRA VERTEBRAL NOT MENTIONED IN PRIOR CAPTURE
+332,I,2007,Non,direct_release,2007,2-Oct-07,NO,release,,,,39,44,H,,"2007 Hatchling, incubated and released.  From burrow A81, clutch 8-7; VERTEBRAL SCUTE ANOMOLY, BRIDGE DEFORMED"
+336,I,2007,Non,direct_release,2007,2-Oct-07,NO,release,,,,45,48,H,,"2007 Hatchling, incubated and released.  From burrow A97, clutch ID 9-4; BRIDGES DEFORMED"
+337,I,2007,Non,direct_release,2007,2-Oct-07,NO,release,,,,36,40,H,,"2007 Hatchling, incubated and released.  From female 215, clutch ID 11-1."
+338,I,2007,Non,direct_release,2007,2-Oct-07,NO,release,,,,35,52,H,,"2007 Hatchling, incubated and released.  From female 129, clutch ID 16-6."
+338,I,2007,Non,direct_release,2008,30-Jul-08,YES,trap,A,J-3 (Near A99),,68,73,J,,Healthy!
+339,I,2007,Non,direct_release,2007,3-Oct-07,NO,release,,,,31,48,H,,"2007 Hatchling, incubated and released.  From Mike Kennedy, clutch ID 1-1."
+340,I,2007,Non,direct_release,2007,3-Oct-07,NO,release,,,,32,47,H,,"2007 Hatchling, incubated and released.  From Mike Kennedy, clutch ID 1-2."
+341,I,2007,Non,direct_release,2007,3-Oct-07,NO,release,,,,41,55,H,,"2007 Hatchling, incubated and released.  From burrow A81, clutch ID 8-8."
+342,I,2007,Non,direct_release,2007,3-Oct-07,NO,release,,,,32,49,H,,"2007 Hatchling, incubated and released.  From burrow A81, clutch ID 8-6."
+343,I,2007,Non,direct_release,2007,3-Oct-07,NO,release,,,,26,48,H,,"2007 Hatchling, incubated and released.  From female 168, clutch ID 17-1."
+348,I,2007,Non,direct_release,2007,3-Oct-07,NO,release,,,,45,57,H,,"2007 Hatchling, incubated and released.  From burrow A97, clutch ID 9-2.  Note: where is blood sample???"
+349,I,2007,Non,direct_release,2007,3-Oct-07,NO,release,,,,38,53,H,,"2007 Hatchling, incubated and released.  From burrow A81, clutch ID 8-7. AT SOME POINT DATABASE RECORD LISTED ID AS ""349A"" - NOT SURE WHY BECAUSE THERE DOES NOT SEEM TO BE >1 ANIMAL WITH THIS ID"
+420,I,,Non,natural,2006,10-May-06,N,hand,E,near E13,new,1660,98,J,,"plastron a little flexible (perhaps a little more than normal); heparin in blood sample; left hind leg has small nodule on knee; SEEMS LIKE EITHER MORPHOMETRICS, WT OR AGE ARE INCORRECT; MAYBE WT IS SUPPOSED TO BE .166KG?"
+421,I,,Non,natural,2006,24-May-06,N,trap,E,E15,new,870,173,S,,estimated 5-6 years by T. Norton
+421,I,,Non,natural,2009,30-Sep-09,YES,trap,E,E,,2051,234,A,,"REFILED #1 SCUTE; VERY DISTINCT ANNULI; NO PIT TAG; FOREARMS SEEM THIN; TRIES TO PUSH / RAM ANOTHER SUBADULT (#435) WHEN SHARING BIN; BURROW IS WPT 80 IN TRACEY'S GPS; WGS84, NAD83, ZONE 17R; 3505286, 0486920; "
+422,I,,Non,natural,2006,25-May-06,N,trap,C,C30,new,220,104,J,,
+422,I,,Non,natural,2008,10-Jun-08,Y,bucket,E,E19,OLD,1310,205,S,,"ESTIMATED AGE 11; Annuli measured for growth rate.  Appeared healthy.  PCV=19%, TS=3.; IF DATA ARE CORRECT, FAIRLY BIG MOVE & ALOT OF GROWTH - CHECK PHOTOS (ALTHOUGH PIT MATCHES)"
+422,I,,Non,natural,2012,23-Jun-12,Y,trap,C,C99,old,1726,215,S,,"Transmitter attached: frequency 165.690, transmitter # 175795, iButton attached 28 June 2012. Weight after transmitter is 1.747kg."
+422,I,,Non,natural,2012,16-Oct-12,YES,trap,C,C99,—,1920,,S,,Downloaded iButton data and reprogrammed to start 17 Oct 2012. Transmitter accidentally removed and then reattached.
+422,I,,Non,natural,2013,10-Jul-13,Yes,trap,C,C99,,2140,230,S,,Replaced transmitter new is 175797 freq 165. 850. New iButton (old won't dl) 7c0000002E76EE21. Blood and nasal flush taken for mycoplasma. Fecal floatfor intestinal parasites.
+424,I,,Non,natural,2006,25-May-06,N,trap,C,C31,new,180,98,J,,"PIT injected subcutaneously near right hind leg; had trouble gluing wound closed; old indentation on 3rd right costal, plastron still flexible"
+426,I,,Non,natural,2006,26-May-06,N,trap,G,G9,new,291,118,J,,Discoloration on 2nd vertebrals and 2nd right costal
+426,I,,Non,natural,2011,17-May-11,Y,trap,G,G9,old,1334,199,S,,
+426,I,,Non,natural,2013,9-Jul-13,Yes,trap,E,E19,,1447,223,S,,"Plastron worn first scute. Fecal float for intestinal parasites—hookworms average 1 per 10x field, pinworms ~10 scattered over whole slide."
+427,I,,Non,natural,2007,6-Jun-07,N,hand,B,NEAR B1,,404,132,S,,CAPTURED ACROSS FROM DUMP AND FROM BURROW B1 (OPPOSITE SIDE OF ROAD); AGE ESTIMATED BY TDT; MILD NASAL DISCHARGE R NARE
+427,I,,Non,natural,2008,22-Jul-08,?,trap,C,C80,,630,164,S,,Healthy!; 
+428,I,,Non,natural,2007,6-Jun-07,,trap,E,E14,,401,133,S,,"VERY FLAKY SKIN, OTHERWISE NORMAL"
+428,I,,Non,natural,2007,5-Oct-07,Y,trap,,NR,,498,134,S,,HOLLIS ANN STEWART TRAPPED AT BURROW N 31DEG 40.929' W 81DEG 8.327; UNMARKED BURROW - NO ID ASSIGNED
+428,I,,Non,natural,2008,30-Jul-08, ,trap,E,E40,,534,154,S,,Sap-like stuff on carapace.
+429,I,,Non,natural,2007,8-Jun-07,,trap,E,E17,,256,114,J,,CARAPACE AND PLASTRON SOFT - NOT SURE IF THIS IS NORMAL OR TYPICAL OF AGE
+429,I,,Non,natural,2008,18-Jun-08,YES,trap,E,E17,,328,122,J,,"Annuli measured for growth rate.  Appeared healthy.   PCV=26%, TS=2.4."
+429,I,,Non,natural,2010,12-Sep-10,YES,trap,E,E19,,837,181,S,,freshened marks; TDT DOUBLE-CHECKED CL & TL
+429,I,,Non,natural,2011,11-Jun-11,Yes,trap,E,E19,,897,187,S,,Broken nail (4th from front) on left front foot.
+430,I,,Non,natural,2007,9-Jun-07,N,trap,C,UNMARKED C,,313,124,J,,
+430,I,,Non,natural,2008,11-Jun-08,YES,trap,E,E27,,420,137,S,,"Annuli measured for growth rate.  Appeared healthy.  PCV=26%, TS=2.2; IF DATA ARE CORRECT, SIGNIFICANT MOVE"
+430,I,,Non,natural,2010,30-Jul-10,yes,trap,E,E20,NEW,860,176,S,,"integument--missing scale on front right leg; missing 2nd claw (2nd most medial) on back left leg. Carapace-- mild keratin wear on marginal and costal scutes on right side. Plastron--mild keatin wear; NO PIT TAG READING AT CAPTURE, PIT INJECTED TODAY; AGE ESTIMATED AT ~8 BY SUMMER INTERN (JORDAN)"
+430,I,,Non,natural,2012,18-Jun-12,yes,trap,E,E20,,1390,209,S,,"Transmitter attached: frequency 165.470, transmitter # 175792, iButton attached 21 June 2012. Slight discoloration on some nails, rear left leg broken 2nd nail. Carapace and plastron has some keratin discolortion and flaking (some white)."
+430,I,,Non,natural,2013,24-May-13,yes,trap,E,E20,,1420,220,S,,New transmitter 175791 freq 165.385. Replaced iButton 460000002DFF1521. Carapace has discoloration and flaky on marginals and some costal scutes. Released June 8.
+431,I,,Non,natural,2007,5-Jul-07,N,trap,G,G10,,423,141,S,,AGE ESTIMATED BY BRADLEY WAFFA AND TERRY NORTON; 
+431,I,,Non,natural,2011,19-May-11,Yes,trap,G,G71,,1006,192,S,,
+431,I,,Non,natural,2013,17-Jul-13,Yes,trap,G,G71,,2040,236,A,,"nail damage on both front feet and left hind foot. Notches touched up. Fecal float for intestinal parasites—pinworms (avg 4-5 per 10x field), hookworms (avg 2 per x field). Blod and nasal flush for mycoplasma. Probably a male slightly concave plastron. "
+432,I,,Non,natural,2007,17-Jul-07,?,hand,,?,,204,106,J,,CAPTURE BURROW NOT LISTED - NOT EVEN SECTION OF TORTOISE AREA; 
+432,I,,Non,natural,2010,28-Jul-10,Yes,trap,G,G64,NEW,600,145,S,,"integument--flaking skin on dorsal aspect of head. Carapace--abnormal shape to costal scutes on left side; 6 costal scutes on left side  (only 4 on right). Plastron--mild keratin wear, small pits on dorsal and ventral aspect of gular scute; NO PIT TAG READING AT CAPTURE, PIT INJECTED TODAY; AGE ESTIMATED BY SUMMER INTERN (JORDAN)"
+432,I,,Non,natural,2013,9-Jul-13,Yes,trap,G,G42,,1341,205,S,,"Missing scales on both front limbs and top of head. Some gouges on plastron. Fecal float for intestinal parasites—pinworms (avg 5 per 10x field), a few hookworms."
+434,I,,Non,natural,2007,23-Jul-07,N,trap,G,G19,,238,110,J,,AGE ESTIMATED BY BRADLEY WAFFA AND TERRY NORTON; SCALES ON DORSAL SIDE OF HEAD DISCOLORED - SCARRING?
+434,I,,Non,natural,2008,10-Jun-08,YES,trap,G,G28,,292,121,J,,"Annuli measured for growth rate.  Appears healthy.  PCV=25%, TS=2.5"
+434,I,,Non,natural,2009,30-Sep-09,YES,trap,G,G19,,682,158,S,,"WPT 56 IN TRACEY'S GPS - WGS 84, NAD83, ZONE 17R: 3504532, 0486596; REFILED NOTCHES"
+434,I,,Non,natural,2010,30-Jul-10,yes,trap,G,G19,NEW,780,165,S,,"integument--flaky skin in pectoral region and head; mild scale war on front left leg.carapace--mild keratin wear. Plastron-- mild keratin wear. Cloaca--feces present; NO PIT TAG READING AT CAPTURE, PIT INJECTED TODAY; AGE ESTIMATED BY SUMMER INTERN (JORDAN)"
+435,I,,Non,natural,2007,26-Jul-07,,trap,G,G12,,1380,211,S,,
+435,I,,Non,natural,2009,1-Oct-09,YES,bucket,G,G46, ,2102,238,A,,FOREARMS SEEM THIN; SUBADULT; NO PIT TAG
+436,I,,Non,natural,2007,27-Jul-07,,trap,E,E,,197,108,J,,N: 31DEG 40.823'; E: 81DEG 08.334'; AGE ESTIMATED BY BRADLEY WAFFA AND TERRY NORTON; 
+436,I,,Non,natural,2010,12-Sep-10,yes,trap,E,E65,,745,170,S,,carapace--discoloration on 4th and 5th vertebral. Nares and integument--skin in inguinal region and around nostrils seems pink. Musculoskeletal--perhaps a little thin. Freshened marks; WILD-HATCHED
+436,I,,Non,natural,2012,17-Jun-12,yes,trap,E,E65,,1173,200,S,,"Transmitter attached: frequency 165.386, transmitter # 175791, iButton attached 21 June 2012. With transmitter is 1.164 kg. discoloration on nails, carapace and plastron have mild keratin flaking and discoloration. Removed thorn from neck."
+436,I,,Non,natural,2012,22-Sep-12,yes,trap,E,E65,,1408,,S,,"Cattracker # 6 (start logging 1 Oct 2012). iButton downloaded and reprogrammed (start logging 15 Oct 2012, every 120 min). Released on 30 Sept 2012 @16:30."
+436,I,,Non,natural,2013,april 8 2013,yes,trap,E,E65,,1472,210,S,,Discoloration on 4th vertebral and 4th right costal. Flaky discolored areas of plastron. Released April 10. Removed GPS unit. Chnaged transmitter to 174316 freq 165.406 (best at .405). Downloaded iButton (failed) iButton rplaced with 990000002E07F21
+510,I,2006,headstart,headstart,2007,23-Mar-07,YES,release,E,,,69,64,H,,"2006 HATCHLING REARED IN LAB, RELEASED 2007 IN E AREA; CLUTCH 3; clutch ID not confirmed; carapace marked 3-2 but is confusion about clutch; SHOULD BE FROM CLUTCH 3 OR 4; CONFIRM WITH GENETICS"
+511,I,2006,headstart,headstart,2007,23-Mar-07,YES,release,E,,,117,79,J,,"2006 HATCHLING REARED IN LAB, RELEASED 2007 IN E AREA; CLUTCH 3;  clutch ID not confirmed; carapace marked 3-3 but is confusion about clutch; may from same clutch as 520; SHOULD BE FROM CLUTCH 3 OR 4; CONFIRM WITH GENETICS"
+512,I,2006,headstart,headstart,2007,23-Mar-07,YES,release,E,,,103,76,J,,"2006 HATCHLING REARED IN LAB, RELEASED 2007 IN E AREA; CLUTCH 3;  clutch ID not confirmed; carapace marked 3-4 but is confusion about clutch; SHOULD BE FROM CLUTCH 3 OR 4; CONFIRM WITH GENETICS"
+520,I,2006,headstart,headstart,2007,23-Mar-07,YES,release,E,,,61,62,H,,"2006 HATCHLING REARED IN LAB, RELEASED 2007 IN E AREA; CLUTCH 3; clutch ID not confirmed; carapace marked 3-1 but is confusion about clutch; may from same clutch as 520; SHOULD BE FROM CLUTCH 3 OR 4; CONFIRM WITH GENETICS"
+521,I,2006,headstart,headstart,2007,23-Mar-07,YES,release,E,,,98,74,J,,"2006 HATCHLING REARED IN LAB, RELEASED 2007 IN E AREA; CLUTCH 3;  clutch ID not confirmed; carapace marked 3-5 but is confusion about clutch; SHOULD BE FROM CLUTCH 3 OR 4; CONFIRM WITH GENETICS"
+522,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,40,53,H,,"2007 Hatchling, incubated and released.  From burrow A96, clutch ID 2-2."
+522,I,2007,Non,direct_release,2010,29-Jun-10,yes,hand,,,,160,91,J,,CAPTURED ON NORTH BEACH ROAD
+526,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,38,52,H,,"2007 Hatchling, incubated and released.  From burrow A88, clutch ID 6-4."
+527,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,40,52,H,,"2007 Hatchling, incubated and released.  From female 129, clutch ID 16-3."
+527,I,2007,Non,direct_release,2012,21-May-12,yes,trap,C,C95,,547,151,S,,"Transmitter attached: frequency 165.041, transmitter # 174311, iButton attached 22 May 2012 (470000002C493021).Right side 3rd vertebral and costal scutes have old scare."
+527,I,2007,Non,direct_release,2012,22-Sep-12,yes,trap,C,C95,,723,,S,,"New transmitter #177837, new freq. 166.743. iButton downloaded and reprogrammed (start logging 15 Oct 2012, every 120 min). Released 1 Oct 2012 @ 16:00."
+527,I,2007,Non,direct_release,2013,1-Apr-13,yes,trap,C,C95,,718,165,S,,Replaced iButton F10000002E32D721
+528,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,34,50,H,,"2007 Hatchling, incubated and released.  From female 129, clutch ID 16-4."
+529,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,34,50,H,,"2007 Hatchling, incubated and released.  Female from Ft Stewart, clutch ID 19-4."
+530,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,32,49,H,,"2007 Hatchling, incubated and released.  Female from Ft Stewart, clutch ID 19-3."
+531,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,40,53,H,,"2007 Hatchling, incubated and released.  From A96, clutch ID 2-1."
+532,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,36,52,H,,"2007 Hatchling, incubated and released.  From female 159, clutch ID 4-2."
+533,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,32,51,H,,"2007 Hatchling, incubated and released.  From burrow A102, clutch ID 12-4."
+536,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,38,53,H,,"2007 Hatchling, incubated and released.  From female 159, clutch ID 4-1."
+537,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,36,52,H,,"2007 Hatchling, incubated and released.  From burrow A102, clutch ID 12-3."
+538,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,38,50,H,,"2007 Hatchling, incubated and released.  From burrow A88, clutch ID 6-6."
+539,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,34,50,H,,"2007 Hatchling, incubated and released.  Female from Ft Stewart, clutch ID 19-2."
+540,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,36,52,H,,"2007 Hatchling, incubated and released.  From burrow A102, clutch ID 12-6."
+541,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,36,50,H,,"2007 Hatchling, incubated and released.  From burrow A102, clutch ID 12-5."
+542,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,30,47,H,,"2007 Hatchling, incubated and released.  Female from Ft Stewart, clutch ID 19-5."
+543,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,38,51,H,,"2007 Hatchling, incubated and released.  From burrow A88, clutch ID 6-5."
+543,I,2007,Non,direct_release,2008,30-Jul-08,YES,trap,A,Near A75 , ,44,61,H,,"seems healthy, annuli measured."
+546,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,34,50,H,,"2007 Hatchling, incubated and released. From burrow A33, clutch ID 13-3."
+547,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,34,49,H,,"2007 Hatchling, incubated and released.  From burrow A88, clutch ID 6-3."
+548,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,30,49,H,,"2007 Hatchling, incubated and released.  From burrow A33, clutch ID 13-2."
+549,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,30,47,H,,"2007 Hatchling, incubated and released.  From burrow C?, clutch ID 10-2."
+550,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,30,50,H,,"2007 Hatchling, incubated and released.  Female from Ft Stewart, clutch ID 19-1; EXTRA SMALL SCUTES ON BOTH SIDES OF ANAL SCUTE"
+551,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,22,43,H,,"2007 Hatchling, incubated and released.  From burrow A68, clutch ID 14-2."
+552,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,38,53,H,,"2007 Hatchling, incubated and released.  From burrow A88, clutch ID 6-7."
+553,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,30,48,H,,"2007 Hatchling, incubated and released.  From burrow C?, clutch ID 10-4."
+556,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,38,50,H,,"2007 Hatchling, incubated and released.  From female 129, clutch ID 16-2."
+557,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,34,49,H,,"2007 Hatchling, incubated and released.  From Lefty, clutch ID 18-1; ANTERIOR CARAPACE SLIGHTLY MISHAPEN"
+558,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,24,45,H,,"2007 Hatchling, incubated and released.  From burrow C?, clutch ID 10-5."
+559,I,2007,Non,direct_release,2007,1-Sep-07,NO,release,,,,34,51,H,,"2007 Hatchling, incubated and released.  From burrow A33, clutch ID 13-1."
+559,I,2007,Non,direct_release,2010,14-Sep-10,yes,trap,A,A130,,408,130,S,,based on paint on carapace from clutch ID 13-1 or 18-1. freshened notches.
+700,I,2007,Non,direct_release,2007,3-Oct-07,NO,release,,,,33,50,H,,"2007 Hatchling, incubated and released.  From female 414, clutch ID 15-5."
+701,I,2007,Non,direct_release,2007,3-Oct-07,NO,release,,,,44,55,H,,"2007 Hatchling, incubated and released.  From burrow A122, clutch ID 3-5."
+701,I,2007,Non,direct_release,2012,23-May-12,yes,trap,C,C97,,651,157,S,,"Right forearm has some discoloration on scales and nails. A lot of keratin wear on plastron, possibly fungal. Photos labeled correctly,b ut tortoise labeledmistakenly  in photo as 801. "
+702,I,2007,Non,direct_release,2007,3-Oct-07,NO,release,,,,45,55,H,,"2007 Hatchling, incubated and released.  From burrow A122, clutch ID 3-5.  10 MARGINALS L & R, 100's MARKED FROM REAR"
+702,I,2007,Non,direct_release,2008,11-Jul-08,YES,shell,A,near A99,NA,0,,D,,FOUND DEAD NEAR RELEASE SITE (NEAR A99); MAKE HARDCOPY DATA SHEET
+703,I,2007,Non,direct_release,2007,3-Oct-07,NO,release,,,,45,57,H,,"2007 Hatchling, incubated and released.  From burrow A81, clutch ID 8-10;"
+706,I,2007,Non,direct_release,2007,3-Oct-07,NO,release,,,,43,56,H,,"2007 Hatchling, incubated and released.  From burrow A97, clutch ID 9-3."
+707,I,2007,Non,direct_release,2007,3-Oct-07,NO,release,,,,20,43,H,,"2007 Hatchling, incubated and released.  From female 168, clutch ID 17-2."
+708,I,2007,Non,direct_release,2007,3-Oct-07,NO,release,,,,35,51,H,,"2007 Hatchling, incubated and released.  From burrow A122, clutch ID 3-9; HAS 10 MARG L & R"
+709,I,2007,Non,direct_release,2007,3-Oct-07,NO,release,,,,46,58,H,,"2007 Hatchling, incubated and released.  From burrow A81, clutch ID 8-4."
+710,I,2007,Non,direct_release,2007,3-Oct-07,NO,release,,,,42,55,H,,"2007 Hatchling, incubated and released.  From burrow A122, clutch ID 3-12."
+711,I,2007,Non,direct_release,2007,3-Oct-07,NO,release,,,,33,50,H,,"2007 Hatchling, incubated and released.  From female 414, clutch ID 15-6."
+712,I,2007,Non,direct_release,2007,3-Oct-07,NO,release,,,,47,57,H,,"2007 Hatchling, incubated and released.  From burrow A81, clutch ID 8-1."
+713,I,2007,Non,direct_release,2007,3-Oct-07,NO,release,,,,44,56,H,,"2007 Hatchling, incubated and released.  From burrow A81, clutch ID 8-5."
+713,I,2007,Non,direct_release,2008,31-Jul-08,YES,hand,A,A75/J-7,,72,73,J,,seems healthy!
+716,I,2007,Non,direct_release,2007,3-Oct-07,NO,release,,,,40,54,H,,"2007 Hatchling, incubated and released.  From burrow A81, clutch ID 8-3.  "
+716,I,2007,Non,direct_release,2008,11-Jul-08,YES,shell,A,A99,,0,0,D,,FOUND DEAD NEAR RELEASE SITE (NEAR A99); MAKE HARDCOPY DATA SHEET 
+717,I,2007,Non,direct_release,2007,3-Oct-07,NO,release,,,,33,51,H,,"2007 Hatchling, incubated and released.  From female 414, clutch ID 15-1."
+718,I,2007,Non,direct_release,2007,3-Oct-07,NO,release,,,,48,58,H,,"2007 Hatchling, incubated and released.  From burrow A97, clutch ID 9-5; 12 MARG L & R; 2ND AND 3RD VERTEBRALS ARE SPLIT"
+718,I,2007,Non,direct_release,2009,15-Jul-09,YES,trap,C,C-J13,,163,99,J,,"BURROW IS NEAR C74; 2007 HATCHLING FROM BURROW A97; SPINES FROM CACTUS IN UPPER PART OF LEFT FRONT LEG - REMOVED; 2ND & 3RD VERTEBRALS COMPLETELY SPLIT DIAGONALLY; EXTRA LEFT COSTAL; XTRA MARGINAL RIGHT SIDE; ID COULD BE MISTAKEN FOR 719 IF COUNT REAR RIGHT MARGINALS FROM FRONT; FORTUNATELY, 718 HAS SPLIT VERTEBRALS AS ADDITIONAL DISTINGUISHING FEATURE"
+718,I,2007,Non,direct_release,2012,22-May-12,Yes,trap,C,C96,,594,154,S,,"Carapace--7 vertebral scutes, on Left side 5 costal scutes, 12 marginals on both sides. Plastron--has irregularities where umbilical scarring. Mistakenly labeled on tortoise 818 for photo, but photo is labeled correctly. "
+719,I,2007,Non,direct_release,2007,3-Oct-07,NO,release,,,,41,53,H,,"2007 Hatchling, incubated and released.  From burrow A122, clutch ID 3-10."
+720,I,2007,Non,direct_release,2007,3-Oct-07,NO,release,,,,40,55,H,,"2007 Hatchling, incubated and released.  From burrow A122, clutch ID 3-11."
+720,I,2007,Non,direct_release,2010,10-Sep-10,yes,trap,C,C93,,450,137,S,,#500 scute reduced in size.
+720,I,2007,Non,direct_release,2012,23-May-12,yes,trap,C,C94,,941,179,S,,"Transmitter attached: frequency 165.629, transmitter # 174318, iButton attached 14 June 2012. Mistakenly 820 on tortoise for photo but photo is labeled correctly. Caught at C94 but probably from C93. Another tortoise was seen at burrow C94 past capture and upon release 720 would not enter C94 but instead went to C93 and began digging."
+720,I,2007,Non,direct_release,2012,22-Sep-12,yes,trap,C,C93,,1220,,S,,"Replace transmitter old # 174318, new # 177831 (freq 166.038).Cattracker # 7 added  (start recording Oct 1 2012). iButton added and reprogrammed (start oct 15 2012, every 120min) because previous was lost, new iButton # AA0000002E183621. Released 30 Sept 2012 @16:30."
+720,I,2007,Non,direct_release,2013,26-May-13,yes,trap,C,C93,,1300,205,S,,"New transmitter 175794 freq 165.590. iButton AA0000002E183621 (old, reset). Several nails have discoloration."
+721,I,2007,Non,direct_release,2007,3-Oct-07,NO,release,,,,39,55,H,,"2007 Hatchling, incubated and released.  From burrow A81, clutch ID 8-2."
+722,I,2007,Non,direct_release,2007,3-Oct-07,NO,release,,,,37,53,H,,"2007 Hatchling, incubated and released.  From female 129, clutch ID 16-5."
+723,I,2007,Non,direct_release,2007,3-Oct-07,NO,release,,,,37,50,H,,"2007 Hatchling, incubated and released.  From female 215, clutch ID 11-2."
+723,I,2007,Non,direct_release,2008,1-Aug-08,YES,hand,A,A99  ,,72,73,J,,Healthy; DATA SHEET ALSO LISTS J1 & J3 LISTED UNDER BURROW NUMBER
+726,I,2007,Non,direct_release,2007,3-Oct-07,NO,release,,,,30,47,H,,"2007 Hatchling, incubated and released.  From female 215, clutch ID 11-3."
+727,I,2007,Non,direct_release,2007,3-Oct-07,NO,release,,,,27,46,H,,"2007 Hatchling, incubated and released.  From Mike Kennedy, clutch ID 1-4."
+730,I,,Non,natural,2008,5-Jun-08,NO,trap,G,G24,,268,119,J,,"Annuli measured for growth rate.  Appeared healthy.  PCV=21%, TS=1.2; DON'T USE AGE ESTIMATES - BOTH AGES OF 3 & 6 LISTED ON DATA SHEET "
+731,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,39,54,H,,HATCHED IN LAB; CLUTCH ID 4-1;
+731,I,2009,Non,direct_release,2013,29-Jun-13,yes,trap,D,D34,,182,127,J,,Missing scales on front legs. Notches touched up. A fecal float was performed to look for intestinal parasites—pinworms found. Blood and nasal flush for mycoplasma.
+732,I,,Non,natural,2008,10-Jun-08,NO,trap,G,G38,,306,126,J,,Annuli measured for growth rate;   Mistakenly given same ID as another tortoise (732).  THIS ANIMAL RETAINS 732 - OTHER ANIMAL REASSIGNED ID OF 772;  DO NOT USE AGE ESTIMATES; LISTS BOTH AGES 3 & 6 ON DATA SHEET
+732,I,,Non,natural,2009,30-Sep-09,YES,trap,G,G30,,707,163,S,,"WPT 65 IN TRACEY'S GPS - WGS84, NAD83, ZONE 17R: 3504499, 0486562; WAS ANOTHER JUV (FROM SECTION E) THAT HAD SAME ID BUT WAS REMARKED TO BECOME 772; THIS JUV (FROM G) RETAINS ID732; MAKE SURE ALL RECORDS FOR INDIV 772 HAVE SAME ID ASSOCIATED WITH IT"
+732,I,,Non,natural,2011,19-May-11,yes,trap,G,G30,,1016,191,S,,
+733,I,,Non,natural,2009,7-Jul-09,,trap,D,D-J9,,1098,190,S,,"BURROW NEAR D20; EYES SLIGHTLY SUNKEN; 8TH R MARGINAL HAS CHIPPING; DATA SHEET MAY SAY ""733B"" BECAUSE ANOTHER TORTOISE FROM SECTION G HAD ID 733 BUT IT WAS ASSIGNED NEW ID OF 773; THIS TORTOISE RETAINS ORGINAL ID OF 733; "
+734,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,36,51,H,,HATCHED IN LAB; CLUTCH ID 4-2; #1 AND #3 SCUTE MARKED
+734,I,2009,Non,direct_release,2010,9-Sep-10,yes,trap,D,D26,,66,69,J,,carapace--paint on carapace indicates had clutch ID=4-2. Freshened marks; IN 2ND YEAR
+734,I,2009,Non,direct_release,2011,15-Jun-11,Yes,trap,D,D32,,82,77,J,,
+736,I,2005,headstart,headstart,2006,13-Jun-06,RELEASE,release,,N/A,new,88,76,J,,FROM GLYNN MIDDLE SCHOOL; HATCHED FALL 2005; RELEASED WITH TRANS #112556; FREQ 149.467; TRANSPONDER IN LEFT INGUINAL; ORIG ID WAS 6; REASSIGNED ID OF 736 IN OCT 2007 (NOT SURE WHY) 
+736,I,2005,headstart,headstart,2007,6-Jun-07,YES,trap,C,NEW 13C,,107,83,J,,WT IS WITH RADIO; TRASMITTER REMOVED WITH DRIMMEL AND PULLED OFF;  ORIG ID WAS 6; REASSIGNED ID OF 736 IN OCT 2007 (NOT SURE WHY) 
+736,I,2005,headstart,headstart,2007,8-Oct-07,Y (BUT NEW ID),trap,E,E17,,160,83,J,,WAS RELEASED IN 2006 AS #6 - WAS A 2005 YOY HEADSTARTED BY MIDDLE SCHOOL; NOT SURE WHY WAS ASSIGNED A NEW ID; AGED BY HOLLIS AND TERRY; PINK PAINT ON CARAPACE
+736,I,2005,headstart,headstart,2008,16-Jun-08,YES,hand,E,E19,,208,106,J,,Annuli measured for growth rate.  Seemed very healthy; DO NOT USE AGE INFO - MORE THAN ONE ESTIMATE; HATCH YEAR RECORDED
+736,I,2005,headstart,headstart,2010,8-Sep-10,yes,trap,E,E53,,629,159,S,,Carapace--notched scutes; pink/pale purple paint on center of 5th vertebral.
+737,I,,Non,natural,2011,14-Jun-11,yes,trap,G,G41,,803,174,S,,Also in data as 737a. 
+737,I,,Non,natural,2013,25-Jun-13,yes,trap,G,G68,,1762,223,S,,"Male, penis viewed during exam. Fecal float for intestinal parasites—pinworms and hookworms. Blood and nasal flush performed for mycoplasma"
+739,I,,Non,natural,2008,14-Jul-08,,trap,C,C63,,496,143,S,,carapace--extra vertebral (6 total)
+740,I,,Non,natural,2008,14-Jul-08,NEW,hand,A,Near A99,,40,57,H,,seems healthy and fat; NOT NOTCHED WHEN CAUGHT
+741,I,,Non,natural,2008,15-Jul-08,,trap,D,D20,,622,156,S,,healthy
+741,I,,Non,natural,2009,3-Jul-09,yes,trap,D,D20,,896,180,S,,SKIN FLAKY ON TOP OF HEAD AND VENTRAL NECK; CARAPACE HAS RAISED AREAS (HARDENED DIRT? BUT DIFFICULT TO SCRAPE OFF) ALONG COSTAL VERTEBRAL SUTURE BILATERALLY; PLASTRON WEARING THROUGHOUT. SUPERFICIAL PITTING ON LEFT 4TH SCUTE.
+741,I,,Non,natural,2010,14-Sep-10,yes,trap,D,D25,NEW,1345,212,S,,AGE ESTIMATED BY TDT; AGE 8 = IN 8TH YR
+741,I,,Non,natural,2013,8-Jul-13,YES,hand,E,E 45,,2560,253,A,,"Nail damage left front leg. Blood and nasal flush for mycoplasma. Fecal float for intestinal parasites—hookworms (avg 1 per 10x field), a couple pinworms."
+742,I,,Non,natural,2008,15-Jul-08,,bucket,C,C46,,616,151,S,,healthy; WAS CAUGHT IN BUCKET TRAP THAT WAS MUCH LARGER THAN THE TORTOISE
+742,I, ,Non,natural,2010,11-Sep-10,yes,trap,A,A131,,1446,203,S,,2003 YOY?
+742,I,,Non,natural,2011,22-May-11,YES,hand,A,A131,,1489,205,S,,Integument on neck appears worn and pinkish seems to be thickened on the right side.
+742,I,,Non,natural,2012,24-Jul-12,Yes,bucket,A,A131,,2100,239,A,,Also took photos of foot and integument. Skin has raw pink spots left and right rear legs and hardened scales missing from foot. Inner nail and medial nail broken and worn (left and right) worse on left than right. Sap on carapace and freshened notches.
+743,I,,Non,natural,2008,16-Jul-08,,hand,C,near C72,,58,64,H,,healthy; MEASURED ANNULI
+745,I,,Non,natural,2008,30-Jul-08,,trap,D,D12,,316,127,J,,sap like material on carapace. Seems healthy.
+745,I,,Non,natural,2011,21-Jun-11,yes,trap,D,D13,,1100,193,S,,
+746,I,,Non,natural,2008,30-Jul-08,,trap,D,D14,,132,92,J,,"vertebral has scar. Appears healthy; CHECK PHOTOS - DIAGRAM ON TURTLE SUGGESTS THAT #400 & #200 SCUTE MAY HAVE BEEN MARKED (MAKING IT 646) BUT ALSO WROTE 200 NEXT TO 300 SCUTE AS IF SAYING MARKED IT IN ""700"" SERIES "
+746,I,,Non,natural,2009,26-Jun-09,,trap,D,D-J3,NEW,222,111,J,,SCAR ON 1ST VERTEBRAL
+747,I,,Non,natural,2008,30-Jul-08,,hand,C,C-84,,64,69,J,,"Right and Left costals indented in middle. Right 5-7 marginals white (scarred?); BASED ON NOTATIONS NEAR BURROW #, LOOKS LIKE MAY HAVE BEEN CAPTURED AT JUVENILE BURROW NEAR C84 (RATHER THAN C84 ITSELF)"
+748,I,,Non,natural,2008,30-Jul-08,,trap,A,A-69 (J-2),,454,139,S,,seems healthy.
+749,I,,Non,natural,2008,30-Jul-08,,trap,A,A69 (J-1),,66,65,H,,
+750,I,,Non,natural,2009,26-Jun-09,NO,hand,,,NEW,388,134,S,,FOUND ON STATE ROAD NORTH OF GREEN SEED POND; RELEASED WHERE? ANNULI WITH MULTIPLE INTERMITTENT FALSE ONES
+750,I,,Non,natural,2009,30-Sep-09,YES,trap,G,G,OLD,484,142,S,,"WPT 52 IN TRACEY'S GPS - WGS 84, NAD83, ZONE 17R: 350547, 0486656; BONE SHOWING THROUGH ON REAR MOST MARGINAL AND SCUTE #500; PLASTRON FLAKY WITH SOME BONE SHOWING THROUGH; JUVENILE BURROW NEAR G56"
+750,I,,Non,natural,2010,21-Jul-10,yes,trap,G,G63,old,560,144,S,,"INTEGUMENT -missing a scale on front left limb area is reddened, CARAPACE -mild keratin wear; flaking on caudal marginal scute, PLASTRON -mild keratin wear; lateral aspect of 2nd and 3rd left and right scutes are more grown out than the medial aspect"
+750,I,,Non,natural,2011,20-May-11,YES,trap,G,G63,OLD,685,0,S,,"Carapace has a lot of keratin wear particularly on rear marginals. Plastron is greatly worn all over with areas of bone showing, possible superficial fungal infection a sample has been submitted for analysis. Integument of right front foot has a red bumb from a missing scale. Measurements not recorded, look at previous measurements for comparison."
+751,I,,Non,natural,2009,29-Jun-09,,trap,D,D-J6,,247,107,J,,SCAR ON LEFT 3RD COSTAL SCUTE; MISSING 3/4 OF CENTER ANNULI.   PLASTRON HAS SUPERFICIAL PITTING ON RIGHT 3RD & 4TH ABDOMINALS
+751,I,,Non,natural,2009,30-Sep-09,YES,trap,D,D, ,281,115,J,,"WPT 64 IN TRACEY'S GPS - WGS 84, NAD83, ZONE 17R: 3505572, 0486565; JUV BURROW NEAR D10; SCALES MISSING ON FRONT SIDE L FORELIMB"
+756,I,,Non,natural,2009,29-Jun-09,,trap,D,D-J4,NEW,167,97,J,,PIT IN RIGHT INGUINAL AREA; LEFT NARE IS SLIGHTLY LARGER; MEDIAL ASPECTS OF ANNULI 0 ON 4TH ABDOMINAL SCUTES ARE INDENTED.
+757,I,,Non,natural,2009,29-Jul-09,NO,trap,D,D-J7, ,50,62,H,,Healthy
+758,I,,Non,natural,2009,29-Jun-09,,trap,D,D-J2,NEW,627,161,S,,"RED ULCERATION ON FRONT LEG AND SMALL AREA ON FRONT RIGHT LEG; 1ST RIGHT COSTAL CENTER ANNULI CHIPPED, 8TH LEFT MARGINAL CAUDAL CORNER IS CHIPPED, FLAKING ON CRANIAL MARGINAL SCUTES; PLASTRON IS PITTING IN THE CENTER OF 4TH ABDOMINALS BILATERAL FLAKINEESS ON LEFT 5TH ABDOMINAL."
+759,I,,Non,natural,2009,2-Jul-09,,trap,C,C-J3,,55,62,H,,LEFT 4TH MARGINAL SCUTE INDENTED
+760,I,,headstart,headstart,2009,28-Apr-09,RELEASE,release,E,,NEW,784,171,S,,"FROM GLYNN MIDDLE SCHOOL, QUARANTINED AT GSTC; MYCOPLASMA SEROLOGY NEGATIVE; RELEASED AT C42; AGE ESTIMATED BY T. NORTON"
+760,I,,headstart,headstart,2009,3-Jul-09,YES,trap,C,C-J4,OLD,985,180,S,,NEAR BURROW C42;  WHITE SPOT ON CHIN; WTF - was this one held until it was older; 
+760,M,,headstart,headstart,2010,14-Sep-10,yes,trap,C,C87,old,1514,208,A,,Slight concavity of plastron? Definitely male (showed penis).  Integument--white material on nails-possible fungal infection; flaky.
+760,M,,headstart,headstart,2012,24-Jun-12,yes,trap,C,C100,old,2271,237,A,,"Transmitter attached: frequency 165.810, transmitter # 175796, iButton attached 28 June 2012. Weight with transmitter is 2.284kg. Showed penis (so definitely male). Difficult to age due to plastron flaking and wear. Flaking and discoloration of nails. "
+760,M,,headstart,headstart,2012,26-Sep-12,yes,trap,C,C100,—,2573,,A,,add cattracker #1 (set to start on 1Oct 2012). iButton downloaded and reprogrammed (start 15 Oct 2012 @ 120min). Released 30 Sept 2012 @ 9:30.
+760,M,,headstart,headstart,2013,23-May-13,yes,trap,C,C100,,2680,245,A,,"New transmitter 174311 freq 165.041. New iButton attached. Slight discoloration on carapace and flaky on rear marginals. Broken left rear outer most nail, slight bleeding so appears to be fresh. Looks to be forming concavity."
+760,M,,headstart,headstart,2013,8-Jul-13,yes,trap,C,C109,,2680,252,A,,"Slight concavity. Slight brownish discharge in medial canthus of right eye. Nail tips broken on all four limbs. Plastron is worn. Fecal float performed for intestinal parasites—pinworms (average 2-3 per 10xfield), 6 hookworms (whole slide)."
+761,I,,Non,natural,2009,8-Jul-09,,trap,C,C-J5,,158,91,J,,CARAPACE - INDENTED LINES ON 2ND & 3RD COSTALS BILATERALLY; FRONT LEFT LEG SMALL ABRASION ABOVE NAIL BED.
+761,I,2007,Non,natural,2010,13-Sep-10,yes,trap,C,C88,,343,120,J,,"FIRST THOUGHT WAS 721 BUT IS ACTUALLY 761 - NEED TO RELABEL PHOTOS (BASED ON NOTES ON DATA SHEET SOUNDS LIKE TOOK FIRST SET OF PHOTOS & LABELED AS 721, BUT TOOK ANOTHER SET THAT RELABELED AS 761); ALSO TOOK PHOTOS OF ANNULI; "
+761,I,2007,Non,natural,2012,11-May-12,yes,trap,C,C88,,522,142,S,,"Transmitter attached: frequency 165.306, transmitter # 174314, iButton attached 14 June 2012. Weight with transmitter is 0.541kg."
+761,I,2007,Non,natural,2012,23-Sep-12,yes,trap,C,C88,,607,,S,,"new transmitter # 177839, freq 166.935. iButton downloaded and reprogrammed (start 15 Oct 2012, every 120 min). Released 30 Sept 2012 @16:30."
+761,I,,Non,natural,2013,2-Apr-13,yes,trap,C,C88,,724,154,S,,New transmitter 177834 freq 166.460. Released 3 Apeil 3013.
+762,I,,Non,natural,2009,11-Jul-09,,trap,C,C-J12,,213,102,J,,OVERALL LOOKS HEALTHY; PLASTRON DARKER THAN MOST; SMALL ABRASION ON L FRONT ELBOW PROBABLY FROM TRAP
+762,M,,Non,natural,2012,3-Jul-12,yes,trap,C,C103,,1260,199,S,,"Transmitter attached: frequency 165.850, transmitter # 175797, iButton attached 5 July 2012. Left foreleg missing outermost nail (old injury), missing 3rd nail from fresh break (likely from trap). Identified as male when during exam penis was viewed. Age was determined by counting the growth rings, however previous records have this tortoise being 6 yrs instead of 8yrs."
+762,M,,Non,natural,2012,22-Sep-12,yes ,trap,C,C103,,1538,,S,,"Cattracker #5, start logging 1 Oct 2012. iButton downloaded and reprogrammed (start logging 15 Oct 2012@120min). Rleased 30 Sept 2012 @16:30."
+762,M,,Non,natural,2013,6-Apr-13,yes,trap,C,C103,,1180,218,A,,Penis viewed during exam. Some dry flaky skin on Right front leg and recently healed scales. Changed transmitter 174318 freq 165.629.
+763,I,,Non,natural,2009,1-Oct-09,NO,trap,E,E, ,383,130,S,,"WPT 77 IN TRACEY'S GPS - WGS84, NAD83, ZONE 17R: 3505101, 0486829; CARAPACE STILL VERY YELLOW - ONLY DARK ALONG SEAMS OF CARAPACIAL SCUTES"
+764,I,,Non,natural,2009,1-Oct-09,NO,trap,D,D12, ,588,152,S,,"ON PLASTRON & CARAPACE, SOME FLAKING AND BONE SHOWING THROUGH"
+764,I,,Non,natural,2011,21-Jun-11,Yes,trap,D,D12,,881,181,S,,Carapace has keratin wear on rear of shell. Keratin wear on majority of the plastron.
+765,I,,Non,natural,2009,1-Oct-09,NO,trap,G,G42, ,405,134,S,,SEVERAL SCALES MISSING ON RIGHT AND LEFT FORELIMBS AT JOINT
+765,I,,Non,natural,2010,31-Jul-10,yes,trap,G,G42,NEW,480,143,S,,plastron--mild keratin wear; AGE ESTIMATED BY SUMMER INTERN (JORDAN)
+765,I,,Non,natural,2013,25-Jun-13,yes,trap,G,G76,,,,S,,Measures were not made. Fecal float for intestinal paasitespinworms and hookworms. Bled for myscoplasma and nasal flush. 
+766,I,2008,Non,natural,2009,2-Oct-09,NO,trap,E,E, ,90,81,J,,"WPT 73 IN TRACEY'S GPS - WGS84, NAD83, ZONE 17R:3505188, 0486822; DISCOLORATION ON RIGHT SIDE OF CARAPACE - SEEMS TO BE CONFINED TO PORTIONS OF SCUTES THAT ARE HATCHLING PLATES (NOT NEW GROWTH REGIONS); SHELL STILL SOFT; FILE MARK FOR #40 SCUTE VERY CLOSE TO ANTERIOR MARGIN; 2008 OFFSPRING?"
+766,I,2008,Non,natural,2010,7-Sep-10,yes,trap,E,E49,,152,99,J,,"Integument--forearms-pale, discolored patches-almost like scales injured and re-healing. Carapace--discoloration and missing keratin on #2 and #3 scutes, 4th Right costal, 4th and 5th vertebral. Freshened marks; AGE 3 = IN 3RD YR; NOT A RELEASED HATCHLING - WILD RECRUIT; TDT DOUBLE-CHECKED CL & PL"
+766,I,2008,Non,natural,2011,11-Jun-11,yes,trap,E,E49,,185,105,J,,Carapace has keratin wear mostly on rear marginals.
+767,I,,Non,natural,2009,2-Oct-09,NO,trap,G,G, ,167,100,J,,"#40 SCUTE FILED NEAR ANTERIOR MARGIN; WPT 85 IN TRACEY'S GPS - WGS84, NAD83, ZONE 17R:3504540, 0486620"
+767,I,,Non,natural,2013,26-Jun-13,Yes,trap,G,G77,,822,179,S,,Fecal float for intestinal parasites. Blood and nasal flush for mycoplasma. 
+768,I,,Non,natural,2009,2-Oct-09,NO,trap,E,E35, ,545,149,S,,OUTER KERATIN / LAMINAE PEELING OR FLAKING AWAY IN MANY AREAS; NO PIT
+768,I,,Non,natural,2010,26-Jul-10,Yes,trap,E,E42,NEW,640,158,S,,"5-moderate keratin wear; shell flaking on marginal and costal scutes; nuchal scute curves dorsally, 6-mild keratin wear; lateral aspect raised and worn smooth conpored to medial aspect; AGE ESTIMATED BY JORDAN (SUMMER INTERN)"
+770,I,,Non,natural,2010,15-Jun-10,new,bucket,D,D17,new,1540,204,S,,"INTEGUMENT -flaky skin esp in pectoral region. Small pink/red areas in both pectoral and inguinal regions, red 1st (most medial) claw on both back legs. PLASTRON -mild keratin wear; notch in gular  scute; bubbling from mouth during exam"
+771,I,,Non,natural,2010,9-Jul-10,new,trap,G,G33,,640,159,S,,"INTEGUMENT -mild abrasions on front limbs; some scales have red color, TYMPANUM -would not extend head."
+771,I,,Non,natural,2011,23-May-11,YES,trap,G,G78,,748,172,S,,Integument has missing scales on left front leg.
+772,I,2005,headstart,headstart,2006,13-Jun-06,RELEASE,release,,N/A,new,82,72,J,,"FROM GLYNN MIDDLE SCHOOL; HATCHED FALL 2005; RELEASED WITH TRANS (0.086KG); FREQ 149.569;TRANSMITTER #112560; TRANSPONDER PLACED IN LEFT INGUINAL; ASSIGNED 732 IN 2007 (NOT SURE WHY) BUT B/C WAS ID ALREADY USED, REASSIGNED ANOTHER ID (772) IN 2009"
+772,I,2005,headstart,headstart,2007,7-Oct-07,Y (BUT NEW ID),trap,E,E,,168,84,J,,"WAS RELEASED IN 2006 AS #2 - WAS A 2005 YOY HEADSTARTED BY MIDDLE SCHOOL; NOT SURE WHY WAS ASSIGNED A NEW ID - GIVEN ID ""732"" IN 2007, BUT ""732"" ALREADY ID USED FOR ANOTHER TORTOISE; ASSIGNED ID OF ""772"" IN 2009; AGED BY HOLLIS AND TERRY; BURROW N 31DEG 40.896' W 81DEG 8.335'; GREEN PAINT ON CARAPACE; TDT THINKS MUST BE IN SECTION E (WILL HAVE TO PLOT TO CONFIRM) B/C ALL GLYNN M.S. ANIMALS WERE RELEASED IN E"
+772,I,2005,headstart,headstart,2009,1-Oct-09,YES,trap,E,E, ,521,141,S,,"VERY STRONG, ACTIVE; WPT 81 IN TRACEY'S GPS - WGS84, NAD83, ZONE 17R: 3505141, 0486833; GREEN PAINT ON REAR VERTEBRAL; REFILED NOTCHES; THIS ANIMAL WAS ORIGINALLY GIVEN ID=2, THEN FOR SOME REASON REMARKED AS 732, BUT WAS ALREADY JUV (FROM SECTION G) MARKED 732; THIS JUV (SECTION E) REMARKED WITH NEW ID 772. NEED TO CHECK OLD BLOOD SAMPLES"
+772,I,2005,headstart,headstart,2010,9-Sep-10,yes,trap,E,E44,,800,165,S,,"carapace--green paint still visible on center of 5th vertebral. Freshened marks; AGE 6 = IN 6TH YEAR; CHECK TO SEE IF PREVIOUSLY TRANSMITTERED; WAS ORIG #2, WAS ALSO PREV #732 - CLEAR UP ANY CONFUSION IN ID IN DATABASE & ALSO MAKE NOTE ON OLDER DATA SHEETS SHOWING PREVIOUS ID"
+772,I,2005,headstart,headstart,2013,24-Jul-13,yes,trap,E,E44,,2100,234,A,,Nail damage on both front limbs. Plastron worn. Blood for bile acids. Blood and nasal flush for mycoplasma.
+773,I,,Non,natural,2008,11-Jun-08,NO,trap,G,G40,,398,133,S,,"Annuli measured for growth rate.  PCV=23%, TS=2.0; ORIG MARKED AS 733 BUT ID MISTAKENLY USED AGAIN IN JUL 2009 FOR JUV IN SECTION D; THIS ANIMAL IN G REASSIGNED ID OF 773 WHEN RECAPTURED IN SEP 2009; "
+773,I,,Non,natural,2009,30-Sep-09,YES,trap,G,G,,673,163,S,,"WPTS 60 & 83 IN TRACEY'S GPS - WGS84, NAD83, ZONE 17R: 3504478, 0486581; ORIG MARKED AS 733 BUT ID MISTAKENLY USED AGAIN IN JUL 2009 FOR JUV IN SECTION D; THIS ANIMAL IN G REASSIGNED ID OF 773 WHEN RECAPTURED IN SEP 2009; "
+773,I,,Non,natural,2009,30-Sep-09,YES,trap,G,G,,673,163,S,,"WAS ANOTHER JUV WITH ID 733 (IN SECTION E) THIS ONE (SECTION G) GIVEN NEW ID 773, ID ON BLOOD SAMPLE NEEDS TO BE CHANGED; WPT82 ALSO WPT60; WPT82 IN TRACEY'S GPS; WGS84, NAD83, ZONE 17R; 3504478,0486581"
+773,I,,Non,natural,2010,10-Jul-10,yes,trap,G,G67,,880,169,S,,INTEGUMENT -some flaking skin on dorsal aspect of head; AGE ESTIMATED BY SUMMER INTERN (JORDAN)
+774,I,,Non,natural,2010,11-Jul-10,new,trap,G,G65,,700,152,S,,INTEGUMENT -flaking skin on dorsal aspect and right side of head
+774,I,,Non,natural,2011,20-May-11,YES,trap,G,G65,,871,176,S,,
+774,I,,Non,natural,2013,23-Jun-13,yes,trap,G,G66,,1700,223,S,,"Blood and nasal flush for mycoplasma test. Fecal float for intestinal parasites. Sap on carapace, touched up notches. "
+775,I,,Non,natural,2010,21-Jul-10,new,trap,G,G66,,560,150,S,,"INTEGUMENT -scales missing on both front limbs, area is reddened; also missing scales on medial aspect of right hind limb are is reddened, CARAPACE moderate keratin wear; flaking on left costal and vertebral scutes, PLASTRON -mild keratin wear; AGE ESTIMATED BY SUMMER INTERN (JORDAN)"
+775,I,,Non,natural,2011,15-May-11,old,trap,G,G70,,740,166,S,,
+775,I,,Non,natural,2013,30-Jun-13,yes,trap,G,G70,,1471,218,S,,Missing scales on underside ofright front le. Carapace has discoloration of keratin on all scutes except caudal  vertebral and rear right side. Plastron has discoloration and flaking of keratin. Fecal float for intestinal parasites. Touched up notches. Blood and nasal flush for mycoplasma.
+786,I,,Non,natural,2011,20-May-11,new,trap,G,G72,,378,131,S,,
+787,I,,Non,natural,2011,8-Jun-11,new,trap,D,D29,,654,160,S,,Carapace and plastron show mild keratin wear on rear of carapace and spotting on plastron.
+788,I,,Non,natural,2011,16-Jun-11,new,trap,D,D10,,912,179,S,,
+789,I,,Non,natural,2011,19-Jun-11,new,hand,C,C,new,1940,228,S,,LAT 31.689379 LONG -81.143176. Found in road at Section C across from the unnamed road near Engineers Road.
+791,I,,Non,natural,2012,10-May-12,new,trap,E,E68,,259,116,J,,"Transmitter attached: frequency 165.497, transmitter # 174317, iButton attached 14 June 2012. Weight with transmitter is 0.271kg"
+791,I,,Non,natural,2012,22-Sep-12,yes ,trap,E,E68,,314,,J,,"replaced transmitter, new transmitter #177838 freq 166.783. Released 1 Oct 2012 @15:00. iButton downloaded and reprogrammed (start 15 Oct 2012, every 120 min)."
+791,I,,Non,natural,2013,2-Apr-13,yes,trap,E,E68,,352,126,J,,reaffixed transmitter because it was loose.
+792,I,,Non,natural,2012,10-May-12,new,trap,E,E69,,524,147,S,,"Transmitter attached: frequency 165.406, transmitter # 174316, iButton attached 14June 2012. Some mild keratin wear on plastron and carapace."
+792,I,,Non,natural,2012,22-Sep-12,yes,trap,E,E69,,644,,S,,"new transmitter # 177832, freq 166.094. iButton downloaded and reprogrammed (start 15 Oct 2012, every 120min). Released 1 Oct 2012 @ 16:00."
+792,I,,Non,natural,2013,9-Apr-13,Yes,trap,E,E69,,663,160,S,,Carapace first vertebral has irregular growth on the suture. iButton download and reset for midnight 11 April 2013.
+792,I,,Non,natural,2013,9-Jul-13,yes,trap,E,E69,,604,167,S,,"Broken nail tips right forelimb, missing scales on front of left forelimb. Fecal float for intestinal parasites. Blood and nasal flush for mycoplasma. Downloaded iButton reset replaced transmitter 177839 freq 166.933."
+793,I,,Non,natural,2012,1-Jul-12,new,trap,C,C102,,2180,230,S,,"Transmitter attached: frequency 165.891, transmitter # 175798, iButton attached 5 July 2012. iButton attached 5 July 2012."
+793,I,,Non,natural,2012,23-Sep-12,yes,trap,C,C102,,2423,,S,,"Cattracker #4 (set to start 1 Oct 2012). iButton downloaded and reprogrammed (start logging 15 Oct 2012, every 120 min). Released 30 Sept 2012 @16:30."
+793,I,,Non,natural,2013,8-Apr-13,yes,trap,C,C102,,2496,240,A,,Reattached iButton new transmitter 174319 freq 165.750
+793,I,,Non,natural,2013,1-Jul-13,yes,trap,C,C101,,2660,246,A,,"Nail damage, Abrasian on chin. Fecal float for intestinal parasites. Blood and nasal flush for mycoplasma."
+794,I,,Non,natural,2012,3-Jun-12,new,trap,C,C98,,995,178,S,,"Transmitter attached: frequency 165.782, transmitter # 174320, iButton attached E30000002C7B2B21. Weight with transmitter is 1.011kg. Snotty nares (titer being run). Abrasions on left foreleg from rubbing in trap, rear toenail discolored. Carapace--slight keratin wear on ""30"" marginal scute. Slight keratin wear of anterior half of plastron. "
+794,I,,Non,natural,2012,16-Oct-12,yes,trap,C,C107,,1150,,S,,"iButton missing, replaced with 140000002E185A to start 17 Oct 2012. New transmitter #177835, freq 166.554 (tunes best at 655 dil at : 6????)"
+794,I,,Non,natural,2013,9-Apr-13,Yes,trap,C,C107,,1152,185,S,,"Dry flaking skin on every scute. iButton failed, replaced 4B0000002E15D921, starts April 11, 2013 at midnight."
+794,I,,Non,natural,2013,21-May-13,yes,trap,C,C107,,1183,187,S,,"Several cactus thorns on left hind limb. Small discoloration on scute ""30"". Whole plastron has flaky areas. New iButton attached 350000002E039C21. New transmitter 174312 freq 165.088."
+795,I,,Non,natural,2012,5-Jul-12,new,trap,C,C104,,1640,210,S,,"Transmitter attached: frequency 165.951, transmitter # 175799, There are some slight abrasions on the head and legs, most likely casue by the trap.  Plastron is slightly irregular on the left abdominal scute."
+795,I,,Non,natural,2012,28-Sep-12,yes,trap,C,C104,,2001,,S,,"new iButton #720000002E1D6921 (start 15 Oct 2012, every 120 min). Cattrcker #3 (start 1 Oct 2012). Release 30 Sept 2012 @16:30."
+796,I,,Non,natural,2012,11-Jul-12,new,trap,C,C106,,675,152,S,,"Transmitter attached: frequency 165.996, transmitter # 175800,"
+796,I,,Non,natural,2012,29-Sep-12,yes,trap,C,C106,,788,,S,,"new iButton #EC0000002E595E21 (start logging 15 Oct 2012, 120 min)."
+796,I,,Non,natural,2013,8-Apr-13,yes,trap,C,C106,,813,162,S,,"Discoloration, whiteand flaky on Right bridge. New transmitter 174317, freq 165.497. Best at 165.496. Downloaded iButton data on iButton but won't downloaded. Replaced iButton with 050000002E48D821 to start April 11, 2013."
+800,I,2008,Non,direct_release,2008,16-Sep-08,no,release,,,,30,50,H,,clutch ID 3-1; FROM BURROW A74; EXTRA ANTERIOR VERTEBRAL
+801,I,2008,Non,direct_release,2008,16-Sep-08,no,release,,,,38,51,H,,clutch ID 3-2; FROM BURROW A74; 
+804,I,,Non,natural,2009,9-Jul-09,NO,trap,C,C-J8,,60,64,H,,"AGE NOT LISTED BUT MUST BE AGE = 1 BASED ON SIZE; DATA SHEET DID NOT GIVE AGE OR WHETHER RECAP, BUT BASED ON SIZE MUST BE YEARLING CAPTURED FOR FIRST TIME; "
+805,I,2008,Non,direct_release,2008,16-Sep-08,no,release,,,,22,46,H,,CLUTCH ID 9-1; COLLECTED FROM NEST AT BURROW A34; 
+806,I,2008,Non,direct_release,2008,16-Sep-08,no,release,,,,37,51,H,,clutch ID 3-4; FROM BURROW A74; 
+806,I,2008,Non,direct_release,2010,7-Sep-10,yes,trap,D,D27,,122,85,J,,Freshened marks; LOTS OF FALSE ANNULI
+807,I,2008,Non,direct_release,2008,16-Sep-08,no,release,,,,34,50,H,,clutch ID 3-5; FROM BURROW A74; 
+808,I,2008,Non,direct_release,2008,16-Sep-08,no,release,,,,34,49,H,,clutch ID 3-6; FROM BURROW A74; 
+808,I,2008,Non,direct_release,2011,12-Jun-11,yes,trap,D,D31,,115,90,J,,Healed scrape on the top of head.
+809,I,2008,Non,direct_release,2008,16-Sep-08,no,release,,,,34,50,H,,clutch ID 3-7; FROM BURROW A74; 
+810,I,2008,Non,direct_release,2008,16-Sep-08,no,release,,,,34,50,H,,CLUTCH ID 4-1; FROM BURROW A101; VERY YELLOW CARAPACE
+810,I,2008,Non,direct_release,2011,20-Jun-11,yes,trap,D,D33,,108,87,J,,
+811,I,2008,Non,direct_release,2008,16-Sep-08,no,release,,,,36,51,H,,CLUTCH ID 4-2; FROM BURROW A101;
+812,I,2008,Non,direct_release,2008,16-Sep-08,no,release,,,,34,50,H,,CLUTCH ID 4-3; FROM BURROW A101;
+813,I,2008,Non,direct_release,2008,16-Sep-08,no,release,,,,25,48,H,,CLUTCH ID 9-4; COLLECTED FROM NEST AT BURROW A34; CLUTCH NUMBER ON CARAPACE ALMOST LOOKS LIKE 7 INSTEAD OF 9; 
+814,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,37,52,H,,HATCHED IN LAB; CLUTCH ID 8-4; 1ST VERTEBRAL SPLIT HORIZONTALLY
+815,I,2008,Non,direct_release,2008,16-Sep-08,no,release,,,,26,48,H,,CLUTCH ID 9-2; COLLECTED FROM NEST AT BURROW A34; 
+815,I,2008,Non,direct_release,2010,8-Sep-10,yes,trap,E,E48,,234,110,J,,"carapace--whatever clutch was from, is individual #2 from that clutch (based on paint on marginals). Freshened notches."
+816,I,2008,Non,direct_release,2008,16-Sep-08,no,release,,,,32,50,H,,CLUTCH ID 4-4; FROM BURROW A101;
+817,I,2008,Non,direct_release,2008,16-Sep-08,no,release,,,,36,51,H,,CLUTCH ID 5-1; COLLECTED FROM FEMALE #116 (INDUCED);
+818,I,2008,Non,direct_release,2008,16-Sep-08,no,release,,,,34,50,H,,CLUTCH ID 6-1; COLLECTED FROM FEMALE #175 (INDUCED); EXTRA VERTEBRAL AT MID-BODY
+819,I,2008,Non,direct_release,2008,16-Sep-08,no,release,,,,35,51,H,,CLUTCH ID 6-2; COLLECTED FROM FEMALE #175 (INDUCED); NUCHAL HAS PARTIAL SPLIT
+820,I,2008,Non,direct_release,2008,16-Sep-08,no,release,,,,33,52,H,,CLUTCH ID 7-1; COLLECTED FROM FEMALE 300 (INDUCED); 
+821,I,2008,Non,direct_release,2008,16-Sep-08,no,release,,,,39,53,H,,CLUTCH ID 7-2; COLLECTED FROM FEMALE 300 (INDUCED); 
+822,I,2008,Non,direct_release,2008,16-Sep-08,no,release,,,,35,51,H,,CLUTCH ID 7-3; COLLECTED FROM FEMALE 300 (INDUCED); 
+822,I,2008,Non,direct_release,2010,14-Sep-10,yes,trap,E,E33,,186,103,J,,integument--missing scale in left forearm-healing; PAINT CARAPACE SAYS ID 522 FROM PREV CAPTURE THIS SUMMER BY INTERN BUT IS WRONG; SOMEONE MISSED #300 SCUTE MARK - CORRECT IN DATABASE & ON PHOTOS & BLOOD SAMPLE; ID OF 822 ALSO MAKES MORE SENSE THAN 522 BASED ON RELEASE SITE LOCATIONS & YR OF RELEASE; HAVE PHOTOS OF #500 & #300 SCUTES BEFORE AND AFTER FRESHENING MARKS 
+823,I,2008,Non,direct_release,2008,16-Sep-08,no,release,,,,27,50,H,,CLUTCH ID 9-5; COLLECTED FROM NEST AT BURROW A34; 
+823,I,2008,Non,direct_release,2010,9-Sep-10,yes,trap,E,E47,,207,107,J,,carapace--split/wrinkle across 3rrd vertebral and into 3rd left costal-crescent shaped. Carapace and integument are very yellow in color; AGE 3 = IN 3RD YR; RELEASED IN CAGE NEAR E37 IN FALL 2008; CLUTCH ID 9-5.
+823,I,2008,Non,direct_release,2012,18-Jun-12,yes,trap,E,E77,,443,140,S,,"Transmitter attached: frequency 165.590, transmitter # 175794, iButton attached 21 June 2012. Irregular growth on 3rd vertebral scute. "
+823,I,2008,Non,direct_release,2012,26-Sep-12,yes,trap,E,E77,,565,,S,,"repaired epoxy and replaced tubing on rear of carapace. Released 1 Oct 2012 @12:00. iButton downloaded and reprogrammed (start 15 Oct 2012, every 120 min)."
+823,I,2008,Non,direct_release,2013,8-Apr-13,yes,trap,E,E77,,589,152,S,,3rd vertebral has distinct growth separation. New transmitter 174320 freq 165.782. New iButton 570000002E23FF21.
+824,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,37,52,H,,HATCHED IN LAB; CLUTCH ID 8-1
+824,I,2009,Non,direct_release,2010,14-Sep-10,yes,trap,E,E59,,78,76,J,,"carapace--paint on carapace indicates clutch 8-5, 1st and 2nd Left and Right costals creased bilaterally. "
+825,I,2008,Non,direct_release,2008,16-Sep-08,no,release,,,,27,48,H,,CLUTCH ID 9-3; COLLECTED FROM BURROW A34; 
+826,I,2008,Non,direct_release,2008,16-Sep-08,no,release,,,,38,51,H,,CLUTCH ID 7-4; COLLECTED FROM FEMALE 300 (INDUCED); 
+827,I,2008,Non,direct_release,2008,16-Sep-08,no,release,,,,38,,H,,CLUTCH ID 7-5; COLLECTED FROM FEMALE 300 (INDUCED); NO MEASUREMENTS LISTED ON DATA SHEET
+828,I,2008,Non,direct_release,2008,16-Sep-08,no,release,,,,41,52,H,,CLUTCH ID 7-6; COLLECTED FROM FEMALE 300 (INDUCED); 
+829,H,2008,Non,direct_release,2008,16-Sep-08,no,release,,,,33,48,H,,CLUTCH ID 3-8; COLLECTED FROM NEST AT BURROW A74; 2ND VERTEBRAL IS SPLIT
+830,H,2008,Non,direct_release,2008,16-Sep-08,no,release,,,,27,48,H,,CLUTCH ID 9-6; COLLECTED FROM NEST AT BURROW A34; 
+830,I,2008,Non,direct_release,2010,8-Sep-10,yes,trap,E,E45,,199,106,J,,freshened marks; TDT DOUBLE-CHECKED CL & TL
+830,I,2008,Non,direct_release,2013,23-Jul-13,Yes,trap,E,E71,,840,175,S,,Thin marginal scutes on carapace. Feval float for intestinal parasites. Blood for bile acids. Blood and nasal flush  for mycoplasma.
+831,H,2008,Non,direct_release,2008,16-Sep-08,no,release,,,,25,46,H,,CLUTCH ID 9-7; COLLECTED FROM NEST AT BURROW A34; 
+831,I,2008,Non,direct_release,2010,7-Sep-10,yes,trap,E,E46,,190,101,J,,Freshened marks; ALSO TOOK PHOTOS OF ANNULI
+831,I,2008,Non,direct_release,2012,27-May-12,yes,trap,E,E71,,358,130,S,,"Transmitter attached: frequency 165.750, transmitter # 174319, iButton attached. Scale is missing on left forearm. Tortoise had cactus spine lodged in right cheek/neck (removed before release). Weight with transmitter is 0.342kg."
+831,I,2008,Non,direct_release,2012,15-Oct-12,yes,trap,E,E45,,580,,S,,New transmitter #177833 freq 166.141. iButton replaced 8D0000002E2E7821 to start 16 Oct 2012.
+831,I,2008,Non,direct_release,2013,6-Apr-13,yes,trap,E,E45,,546,147,S,,"Appears skinny, may be due to overwintering. Minimally dry and flaky. Changed transmitter 174315 freq 165.368 best at 165.367."
+832,H,2008,Non,direct_release,2008,9-Oct-08,NEW,release,,,,34,49,H,,CLUTCH ID 1-1
+833,H,2008,Non,direct_release,2008,9-Oct-08,NEW,release,,,,38,50,H,,CLUTCH ID 5-6
+834,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,34,51,H,,HATCHED IN LAB; CLUTCH ID 8-6; XTRA (SMALL) VERTEBRAL BETWEEN 1ST AND 2ND
+834,I,2009,Non,direct_release,2010,7-Sep-10,yes,Hand,E,E26,,86,77,J,,"carapace--paint on carapace indicates from clutch #8, 1st vertebral split (or what appears to be an extra small scute). Freshened notches; ON TOP OF APRON OF ADULT BURROW; LATER RECAPTURED AT E52 IN THIS TRAPPING SESSION; AGE 2 = IN 2ND YEAR"
+834,I,2009,Non,direct_release,2013,26-Jun-13,yes,trap,D,D30,,258,110,J,,Blood and nasal flush for mycoplasma.
+835,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,35,51,H,,HATCHED IN LAB; CLUTCH ID 8-7
+835,I,2009,Non,direct_release,2010,6-Sep-10,yes,hand,D,D28,,68,71,J,,carapace--paint on shell indicates clutch ID=8-7. Freshened Notches; ALSO TOOK PHOTOS OF ANNULI; AGE 2 = IN 2ND YR
+836,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,34,50,H,,HATCHED IN LAB; CLUTCH ID 8-8
+837,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,35,51,H,,HATCHED IN LAB; CLUTCH ID 8-9
+837,I,2009,Non,direct_release,2010,9-Sep-10,yes,trap,E,E51,,91,77,J,,"carapace--old paint on carapace, perhaps indicating old clutch Idof 8-9 (not sure about 8). Freshened Marks; RELEASED AT E10 CAGE IN FALL 2009;"
+837,I,2009,Non,direct_release,2011,21-Apr-11,yes,hand,E,E near E19 & E50,,92,78,J,,
+837,I,2009,Non,direct_release,2011,6-Jun-11,yes,trap,E,E66,,98,83,J,,
+837,I,2009,Non,direct_release,2013,1-Jul-13,yes,trap,E,E83,,482,136,S,,Missing scale on left front leg. Fecal float for intestinal parasites—pinworms. Blood and nasal flush for mycoplasma. 
+838,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,35,51,H,,HATCHED IN LAB; CLUTCH ID 8-10
+839,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,31,50,H,,HATCHED IN LAB; CLUTCH ID 8-11
+840,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,35,52,H,,HATCHED IN LAB; CLUTCH ID 5-1
+841,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,30,48,H,,HATCHED IN LAB; CLUTCH ID 6-1; 10 MARG L & R
+841,I,2009,Non,direct_release,2010,13-Sep-10,yes,trap,E,E58,,80,76,J,,"carapace--6-1 clutch ID (based on paint), 10 marg Left and Right. Carapace flared at rear, 3rd -5th vertebrals wrinkled."
+842,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,40,52,H,,HATCHED IN LAB; CLUTCH ID 6-2; 10 MARG L & R
+842,I,2009,Non,direct_release,2010,11-Sep-10,Yes,trap,E,E61,,92,78,J,,carapace-- 10 marginals left and right; paint on carapace corresponds to clutch ID 6-2.
+843,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,42,54,H,,HATCHED IN LAB; CLUTCH ID 6-4
+844,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,41,53,H,,HATCHED IN LAB; CLUTCH ID 6-5
+844,I,2009,Non,direct_release,2010,12-Sep-10,yes,trap,D,D69,,96,79,J,,Carapace--paint indicates clutch ID=6-5. Integument--abdominal scutes wrinkled near midline.
+844,I,2009,Non,direct_release,2012,31-Jul-12,yes,hand,D,D-area,,265,120,J,,Shell has paint from previous capture. Touched up notches. Removed cactus spine from leg. Found on N. Beach Rd on D-area side.
+845,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,39,52,H,,HATCHED IN LAB; CLUTCH ID 6-6; 10 MARG L & R
+845,I,2009,Non,direct_release,2010,8-Sep-10,yes,trap,E,E50,,88,78,J,,Carapace-- clutch ID=6-6 (based on paint on carapace) 10 marginal Left and Right. Freshened marks.
+845,I,2009,Non,direct_release,2011,13-Jun-11,yes,trap,E,E50,,125,90,J,,Carapace has 10 marginals on both sides.
+846,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,40,54,H,,HATCHED IN LAB; CLUTCH ID 6-7
+846,I,2009,Non,direct_release,2010,12-Sep-10,yes,trap,E,E60,,103,82,J,,Carapace--paint indicates 7th individual in clutch. Plastron-- still wrinkled around where yolk sac was (on abdominal scutes)
+846,I,2009,Non,direct_release,2013,15-Jul-13,yes,trap,E,E82,,731,163,S,,"Worn scutes made it difficult to age. Fecal float for intestinal parasites—pinworms (avg 2 per 10x field), hookworms (10 on whole slide). Blood and nasal flush for mycoplasma. "
+847,I,2007,Non,direct_release,2009,15-Jul-09,YES (BUT NEW ID),trap,C,C-J16,,108,83,J,,PREV ID WAS 347 BUT THERE WERE TWO 2007 HATCHLINGS THAT WERE GIVEN ID 347 - THIS ONE REMARKED AS 847; NEED TO RUN GENETIC SAMPLES TO VERIFY WHICH INDIVIDUAL GOT ID CHANGE; PHOTOS NEED TO BE RELABELED WITH NEW ID; BURROW NEAR C74; MAKE SURE BLOOD SAMPLES CORRECTED
+848,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,38,54,H,,HATCHED IN LAB; CLUTCH ID 6-8
+849,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,41,54,H,,HATCHED IN LAB; CLUTCH ID 6-3
+850,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,39,53,H,,HATCHED IN LAB; CLUTCH ID 6-9
+851,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,38,53,H,,HATCHED IN LAB; CLUTCH ID 3-1
+852,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,37,51,H,,HATCHED IN LAB; CLUTCH ID 3-2
+853,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,38,52,H,,HATCHED IN LAB; CLUTCH ID 3-3
+854,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,39,54,H,,HATCHED IN LAB; CLUTCH ID 3-4
+854,I,2009,Non,direct_release,2011,21-Jun-11,Recap,hand,E,E,,109,81,J,,LAT 31.682711 LONG -81.139087.
+855,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,37,52,H,,HATCHED IN LAB; CLUTCH ID 3-5
+856,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,39,53,H,,HATCHED IN LAB; CLUTCH ID 3-6
+857,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,44,55,H,,HATCHED IN LAB; CLUTCH ID 7-1
+857,I,2009,Non,direct_release,2011,17-Jun-11,Yes,hand,E,E,,169,95,J,,"Found side by side with 766 near E49. LAT 31.681792 LONG -81.139115. 2009 YOY, hatched in the lab."
+857,I,2009,Non,direct_release,2013,30-Jun-13,yes,trap,E,E49,,604,148,S,,Fecal float for intestinal parasites. Blood and nasal flush for mycoplasma. 
+858,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,47,56,H,,HATCHED IN LAB; CLUTCH ID 7-2
+859,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,42,53,H,,HATCHED IN LAB; CLUTCH ID 7-3
+860,I,,Non,natural,2010,14-Sep-10,new,trap,C,C83,NEW,1328,205,S,,
+861,I,,Non,natural,2010,14-Sep-10,new,trap,E,E63,,644,158,S,,IN 6TH YEAR
+861,I,,Non,natural,2012,15-May-12,yes,trap,E,E63,,1147,198,S,,"Transmitter attached: frequency 165.216, transmitter # 174313, iButton attached.Left foreleg and front face abrasion from wiretrap.Weight with transmitter is 1.073kg."
+861,I,,Non,natural,2013,8-Apr-13,yes,trap,E,E63,,1515,216,S,,"Has dry flaky patches on ""20"", 2nd and 4rd costals, and 1st vertebral. Right leg has missing nail on innermost. New transmitter 174314 freq 165.306 but best at 165.305. New iButton AA0000002E559521, started 11 April 2013 at midnight."
+863,I,,Non,natural,2013,23-Jul-13,new,trap,D,D34,,1080,186,S,,Thin areas on marginal scutes. Worn scutes on plastron. Fecal float for intestinal parasites. Blood for bile acids. Blood and nasal flush for mycoplasma. 
+873,I,,Non,natural,2013,29-Jun-13,new,trap,G,G75,,1970,235,A,,Blood and nasal flush for mycoplasma. Fecal float for intestinal parasites—pinworms. Has slight plastron concavity.
+903,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,45,56,H,,HATCHED IN LAB; CLUTCH ID 7-4
+903,I,2009,Non,direct_release,2010,13-Sep-10,yes,trap,E,E55,,110,82,J,,7-4 clutch ID (based on paint)
+903,I,2009,Non,direct_release,2011,11-Jun-11,yes,hand,E,near E55,,136,90,J,,2009 YOY. LAT 31.681718 LONG -81.138967.
+903,I,2009,Non,direct_release,2012,4-Jun-12,yes,hand,E,"E-area, near E13",,251,109,J,,Found near E13.
+903,I,2009,Non,direct_release,2012,18-Jun-12,yes,hand,E,"E-Area, near E31 and E55",,262,112,J,,Found near E31 and E55. Scrape on chin.
+904,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,45,56,H,,HATCHED IN LAB; CLUTCH ID 7-5
+904,I,2009,Non,direct_release,2011,11-Jun-11,recap,trap,D,D30,,90,83,J,,2009 YOY.
+905,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,38,51,H,,HATCHED IN LAB; CLUTCH ID 7-6
+905,I,2009,Non,direct_release,2012,19-Jun-12,yes,hand,D,D-area,,113,81,J,,
+906,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,41,54,H,,HATCHED IN LAB; CLUTCH ID 9-1
+906,I,2009,Non,direct_release,2010,15-Sep-10,yes,trap,C,C90,,92,77,J,,Carapace-- paint indicates from clutch ID 9-1. Plastron--abdominal still creased near midline.
+907,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,39,53,H,,HATCHED IN LAB; CLUTCH ID 9-2
+908,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,41,53,H,,HATCHED IN LAB; CLUTCH ID 9-3
+908,I,2009,Non,direct_release,2010,12-Sep-10,yes,trap,C,C91,,92,77,J,,Carapace--paint indicates clutch ID=9-3. Integument and carapace-- very yellow in color.
+909,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,41,55,H,,HATCHED IN LAB; CLUTCH ID 9-4
+910,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,41,53,H,,HATCHED IN LAB; CLUTCH ID 9-5
+911,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,39,53,H,,HATCHED IN LAB; CLUTCH ID 9-6
+912,H,2009,Non,direct_release,2009,24-Sep-09,NO,release,,,,38,53,H,,HATCHED IN LAB; CLUTCH ID 9-7
+913,H,2009,Non,direct_release,2009,30-Sep-09,NO,release,,,,26,46,H,,HATCHED IN LAB; CLUTCH ID 2-1
+914,H,2009,Non,direct_release,2009,30-Sep-09,NO,release,,,,32,51,H,,HATCHED IN LAB; CLUTCH ID 2-2; RIGHT SIDE DENTED / FLATTENED
+915,H,2009,Non,direct_release,2009,30-Sep-09,NO,release,,,,31,50,H,,HATCHED IN LAB; CLUTCH ID 2-3; 4TH & 5TH VERTEBRAL SPLIT AND MISSHAPEN
+916,H,2009,Non,direct_release,2009,30-Sep-09,NO,release,,,,31,49,H,,HATCHED IN LAB; CLUTCH ID 2-4; LEFT SIDE SOMEWHAT DENTED
+917,H,2009,Non,direct_release,2009,30-Sep-09,NO,release,,,,32,51,H,,HATCHED IN LAB; CLUTCH ID 2-5; CARAPACE SLANTED TOWARD LEFT SIDE
+918,H,2009,Non,direct_release,2009,30-Sep-09,NO,release,,,,33,50,H,,HATCHED IN LAB; CLUTCH ID 2-6; CARAPACE SLANTED LONGITUDINALLY TOWARD RIGHT SIDE; 1ST VERTEBRAL PARTIALLY SPLIT
+919,H,2009,Non,direct_release,2009,30-Sep-09,NO,release,,,,33,50,H,,HATCHED IN LAB; CLUTCH ID 2-7
+919,I,2009,Non,direct_release,2010,13-Sep-10,yes,trap,C,C89,,77,72,J,,Carapace--from clutch 8 (based on paint). Maybe old paint indicating was individual 7 in clutch; paint number on carapace does not match clutch # in data file (clutch 2) but I am convinced of mark; took blood to confirm via genetics.
+920,H,2009,Non,direct_release,2009,30-Sep-09,NO,release,,,,30,48,H,,HATCHED IN LAB; CLUTCH ID 2-8; XTRA VERTEBRAL
+921,I,,Non,natural,2009,29-Sep-09,NO,hand,G,G,,25,46,H,,"BTWN BURROWS G34 & G78; WPT 69 IN TRACEY'S GPS - WGS84, NAD83, ZONE 17R: 3504593, 0486587"
+922,I,,Non,natural,2009,29-Sep-09,NO,hand,E,E ,,196,102,J,,"WPT 72 IN TRACEY'S GPS - WGS 84, NAD83, ZONE 17R: 3505094, 0486871; NEAR E7"
+923,H,2009,Non,direct_release,2009,1-Oct-09,NO,release,,,,32,50,H,,HATCHED IN LAB; CLUTCH ID 10-1
+924,H,2009,Non,direct_release,2009,1-Oct-09,NO,release,,,,32,48,H,,HATCHED IN LAB; CLUTCH ID 10-2
+925,H,2009,Non,direct_release,2009,1-Oct-09,NO,release,,,,33,48,H,,HATCHED IN LAB; CLUTCH ID 10-3
+926,H,2009,Non,direct_release,2009,1-Oct-09,NO,release,,,,34,48,H,,HATCHED IN LAB; CLUTCH ID 10-4
+926,I,2009,Non,direct_release,2010,12-Sep-10,yes,trap,C,C92,,63,70,J,,carapace--paint indicates 4th individual from clutch.
+927,H,2009,Non,direct_release,2009,1-Oct-09,NO,release,,,,32,48,H,,HATCHED IN LAB; CLUTCH ID 10-5
+928,H,2009,Non,direct_release,2009,1-Oct-09,NO,release,,,,32,49,H,,HATCHED IN LAB; CLUTCH ID 10-6; STILL ABSORBING YOLK
+929,I,2010,Non,natural,2010,15-Sep-10,new,hand,A,A99,,31,48,H,,plastron--still absorbing last of yolk; plastron still wrinkled bilaterally. Nares--egg tooth still visible; FOUND AT ENTRANCE OF BURROW A99 @ 12:51; TOP OF EGG SHELL VISIBLE ~0.5M DOWN BURROW
+930,I,2009,Non,natural,2010,14-Sep-10,new,trap,E,E27,,88,78,J,,carapace--very yellow carapace; HATCHED IN WILD; ALSO COLLECTED SHELL NOTCH BECAUSE AT FIRST COULDN'T GET BLOOD
+931,I,2010,Non,natural,2011,18-May-11,New,hand,E,E ,,47,58,H,,"2010 YOY; natural recruit. Red-orange coloration on carapace, plastron and integument, with very distinct vertebral line color. LAT:31.681091 LONG:-81.139416."
+932,I,,Non,natural,2011,21-May-11,NEW,trap,G,G73,,311,124,J,,
+932,I,,Non,natural,2013,19-Jul-13,yes,trap,G,G74,,780,177,S,,Blood for bile acids. Fecal float for intestinal parasites. Blood and nasal flush for mycoplasma. 
+933,I,,Non,natural,2011,18-Jun-11,new,hand,G,G,,213,109,J,,Plastron shows slight keratin wear.LAT 31.6761646 LONG -81.141005.
+933,I,,Non,natural,2013,18-Jul-13,yes,trap,G,G24,,721,163,S,,Fecal float for intestinal parasites. Blood and nasal flush for mycoplasma. 
+937,I,,Non,natural,2013,21-May-13,new,hand,C,near C45,,43,56,H,,2012 YOY. Still has umbillical scar.
+938,I,,Non,natural,2012,10-May-12,new,hand,E,E-Area,,94,81,J,,
+939,H,,Non,natural,2012,15-May-12,new,hand,C,C-area,,31,49,H,,"2011 YOY, in it's first year."
+1001,I,,Non,natural,2011,20-Jun-11,new,trap,G,G75,,1080,196,S,,"Carapace on left side has damage from possible bite when young. Marginals 10, 20 and 30 and missing/damaged. Right rear foot lest rear most nail."
