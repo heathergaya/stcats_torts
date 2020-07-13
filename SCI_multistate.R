@@ -1,21 +1,16 @@
-#Last edited 7 Oct 2019 by Heather Gaya
+#Last edited 13 July 2020 by Heather Gaya
 
 #Multistate Model
-#For now, no sex included: H=1,J=2,S=3,A=4, RD=5, unknown/not alive = 6
+#For now, no sex included: B=1, H=2,J=3,S=4,A=5, unknown/not alive = 6
 #Three treatments -  direct release =1, headstart =2 ,natural =3
 #p= values vary by treatment type/release date
 #put Phi on logit 
 
 library(runjags)
-
-#setwd("C:/Users/rkm42083/Desktop/AGTP/Data/Bayesian")
-#setwd("C:/Users/grad/Desktop/Rebecca_GT_project")
 setwd("~/Desktop/U Georgia/Rebecca_Project")
 
 input.data<-read.csv("sci_data.csv")
 input.data<-input.data[,1:15]
-#input.data <- input.data[10:100,1:15]
-#input.data<-input.data[!input.data$Stage=="D", ]   120 died 2008, 130 died 2008
 
 input.data$year<-input.data$Cap_Year-min(input.data$Cap_Year)+1 #year 1 = 2006, year 8 = 2013
 
@@ -40,7 +35,6 @@ n.animal<-length(x)
 
 #array of zeros
 y=array(0,dim=c(n.animal,n.occas))
-
 
 input.data<-input.data[order(input.data$animal.no,input.data$year),]
 
@@ -73,7 +67,7 @@ CH <- y
 rCH <- CH  # Recoded CH
 rCH[rCH==0] <- 6
 nind<-dim(rCH)[1]
-# Specify model in BUGS language
+# Specify model in JAGS language
 ##### model #######
 modelstring.Tort = "
 model
@@ -124,7 +118,7 @@ model
     for (t in 1:2) {  # first 2 treatment  
       for (u in 1:4) {  #age
         phi.ao0[t,u] ~ dnorm(0, 0.37)
-        phi.ao[t,u] <- select.int * phi.ao0[t,u]        ## CTM: select.int IS A SWITCH THAT TURNS ON/OFF INTERCEPT
+        phi.ao[t,u] <- select.int * phi.ao0[t,u]        ## select.int IS A SWITCH THAT TURNS ON/OFF INTERCEPT
         }
       phi.ao[t,5] <- -sum(phi.ao[t,1:4])  #5th age = neg sum of first 4 #treatment, age
       }
@@ -222,8 +216,8 @@ model
     ps[5,i,t,2]  <- 0
     ps[5,i,t,3]  <- 0
     ps[5,i,t,4]  <- 0
-    ps[5,i,t,5]  <- phi[i,4]  #stay an adult
-    ps[5,i,t,6]  <- 1-phi[1,4]
+    ps[5,i,t,5]  <- phi[i,5]  #stay an adult
+    ps[5,i,t,6]  <- 1-phi[1,5]
     
     ps[6,i,t,1]  <- 0
     ps[6,i,t,2]  <- 0
@@ -356,7 +350,7 @@ release.date <- function(all.dat, rCH){
   full <- all.dat
   ch <- rCH  
   full <- subset(full, MOC == "release" & Cap_Year > 2006)
-  release <- full$Cap_Year-2006 #before they were released, they were age class 1 (pre-birth)
+  release <- full$Cap_Year-2006 #before they were released, they were age class 1 (pre-hatch)
   for (i in 1:nrow(full)){
     ch[full$animal.no[i],release[i]] <- 1
   }
@@ -374,18 +368,6 @@ release.detect <- function(all.dat, rCH){
   return(R.mat)
 }
 
-  
-  #Idx <- array()
-#  
-#  for (i in 1:nrow(full)){
-#    Idx[i] <- which(animal.no == full$animal.no[i])
-#  }
-  
-  ## want to extract these tortoise numbers and 
-  #then fix z's/y's to indicate that yes we detected them at AND BEFORE this point as B's
-#}
-
-
 rCH <- release.date(all.dat, rCH)
 rCH[163,1:3] <- c(1,1,3)  #fixing a headstart that was released as a subadult 
 
@@ -393,7 +375,7 @@ rCH[163,1:3] <- c(1,1,3)  #fixing a headstart that was released as a subadult
 get.first <- function(x) min(which(x!=6))
 f <- apply(rCH, 1, get.first)
 f
-#R.mat <- release.detect(all.dat, rCH)
+
 ####### Run the model ############
 z.known <- known.state.ms(rCH,6)
 #120 died 2008, 130 died 2008
@@ -404,7 +386,6 @@ jags.data <- list(select.o = 0, select.int = 0,
                   z=z.known)
 #R = R.mat
 
-#treatments = 3, ages = 5 (in matrix)
 z.init <- ch.init(rCH,f,5,6)
 z.init[c(120,130), 1:8] <- NA
 inits<-function(){list(phi.a0=rnorm(4,0, 0.5), psiBJ = runif(1,0,1), psiBH = runif(1,0,1),
@@ -453,148 +434,7 @@ tort_mod3 <- run.jags(modelstring.Tort, data = jags.data, inits = inits, monitor
                       n.chains = nc, method = 'parallel',sample = ni, burnin = nb)
 write.csv(summary(tort_mod3), file="results.interactive.mod.may10.csv" )
 
-#extract mean detection values
-
-#dic1 <- extract.runjags(tort_mod1, "dic")
-#tort_mod2 <- results.jags("/private/var/folders/v4/v904tsfx66zc2rwrthj56_y80000gn/T/RtmpxuSD9Z#/runjagsfiles13ef298b8ae9",
-#                          recover.chains=TRUE)
-
 dic3 <- extract.runjags(tort_mod3, "dic")
-print(dic1) #914.5; 
-print(dic2) #911.5; 
-print(dic3) # 917.6; 
-
-
-#so when we use an equal R, the second model (treatment) is the best model but not in a substantial way 
-# not surprising honestly
-
-#model weights
-
-# data.frame(mods = 1:3, dic = c(914.5, 911.5, 917.6), delta = c(914.5-911.5, 0, 917.6-911.5), weights= c(.18,.78, .04))
-# 
-# exp(-.5*0)+exp(-.5*3)+exp(-.5*6.1)
-# exp(-.5*0)/(exp(-.5*0)+exp(-.5*3)+exp(-.5*6.1))
-# exp(-.5*3)/(exp(-.5*0)+exp(-.5*3)+exp(-.5*6.1))
-# exp(-.5*6.1)/(exp(-.5*0)+exp(-.5*3)+exp(-.5*6.1))
-
-
-
-### combo recovery probabilities 
-## run DIC and give to rebecca
-## check if removing adults does anything to results
-## different survival by time? 
-
-
-# ## Extract means and SD of interaction effects
-# m.int <- tort_mod3$
-# m.int <- model.3.int$BUGSoutput$mean$phi.ao[1:3,1:3]
-# s.int <- model.3.int$BUGSoutput$sd$phi.ao[1:3,1:3]
-# test.int <- model.3.int$BUGSoutput$mean$exceed.test.int
-# crit.int <- model.3.int$BUGSoutput$mean$exceed.crit.int
-# 
-# ## CTM:NEED TO ADD THESE STATEMENTS TO COMPUTE VARIANCE-COVARIANCE MATRIX FOR WALD TEST
-# sims.int <- model.3.int$BUGSoutput$sims.list$phi.ao
-# sims.int.list <- cbind(sims.int[,1,1:3],sims.int[,2,1:3],sims.int[,3,1:3])
-# mean.int <- apply(sims.int.list,2,mean)
-# vc.int <- cov(sims.int.list)
-# 
-# ## Run additive model (age, origin)
-# jags.data$select.o <- 1
-# jags.data$select.int <- 0
-# add.model.3<- jags(jags.data, inits, parameters,"Model3.interaction.txt", n.chains = nc, n.thin = nt, n.iter = ni, n.burnin = nb, working.directory = getwd())
-# model.3.add <- add.model.3
-# model.3.add.results<-as.mcmc(model.3.add$BUGSoutput$summary)
-# write.csv(model.3.add.results, file="results.add.csv")
-# 
-# ## Extract means and SD of additive origin effects
-# m.add <- model.3.add$BUGSoutput$mean$phi.o[1:3]
-# s.add <- model.3.add$BUGSoutput$sd$phi.o[1:3]
-# test.add <- model.3.add$BUGSoutput$mean$exceed.test.add
-# crit.add <- model.3.add$BUGSoutput$mean$exceed.crit.add
-# 
-# ## CTM:NEED TO ADD THESE STATEMENTS TO COMPUTE VARIANCE-COVARIANCE MATRIX FOR WALD TEST
-# sims.add <- model.3.add$BUGSoutput$sims.list$phi.o
-# sims.add.list <- sims.add[,1:3]
-# mean.add <- apply(sims.add.list,2,mean)
-# vc.add <- cov(sims.add.list)
-# 
-# ## Run age-only model
-# jags.data$select.o <-0
-# jags.data$select.int <- 0
-# age.model.3<- jags(jags.data, inits, parameters,"Model3.interaction.txt", n.chains = nc, n.thin = nt, n.iter = ni, n.burnin = nb, working.directory = getwd())
-# model.3.age <- age.model.3
-# model.3.age.results <-as.mcmc(model.3.age$BUGSoutput$summary)
-# write.csv(model.3.age.results, file="results.age.csv" )
-# 
-# ## Extract means and SD of additive age effects
-# m.age <- model.3.age$BUGSoutput$mean$phi.a[1:3]
-# s.age <- model.3.age$BUGSoutput$sd$phi.a[1:3]
-# test.age <- model.3.age$BUGSoutput$mean$exceed.test.age
-# crit.age <- model.3.age$BUGSoutput$mean$exceed.crit.age
-# 
-# sims.age <- model.3.age$BUGSoutput$sims.list$phi.age
-# sims.age.list <- sims.age[,1:3]
-# mean.age <- apply(sims.age.list,2,mean)
-# vc.age <- cov(sims.age.list)
-# 
-# ## Wald tests
-# ## 1. Interaction
-# ###  BAD wald.int <- sum((m.int*m.int)/(s.int*s.int))
-# wald.int <- t(mean.int) %*% solve(vc.int) %*% mean.int
-# p.int <- 1-pchisq(wald.int,9)
-# p.int
-# 
-# ## 2. Origin main effect
-# ###  BAD wald.add <- sum((m.add*m.add)/(s.add*s.add))
-# wald.add <- t(mean.add) %*% solve(vc.add) %*% mean.add
-# p.add <- 1-pchisq(wald.add,3)
-# p.add
-# 
-# ## 3. Age main effect
-# ###  BAD wald.age <- sum((m.age*m.age)/(s.age*s.age))
-# wald.age <- t(mean.age) %*% solve(vc.age) %*% mean.age
-# p.age <- 1-pchisq(wald.age,3)
-# p.age
-# 
-# pvalues<-data.frame(wald=c(wald.int, wald.add, wald.age), p=c(p.int, p.add,p.age))
-# write.csv(pvalues, "pvalue.csv")
-# 
-# h.d <- h.h <- h.n <- array()
-# for (i in 1:nrow(all.dat)){
-#   h.d[i] <- 2 %in% all.dat[i,2:9] & all.dat[i,27] == 1
-#   h.h[i] <- 2 %in% all.dat[i,2:9] & all.dat[i,27] == 2
-#   h.n[i] <- 2 %in% all.dat[i,2:9] & all.dat[i,27] == 3
-# }
-# sum(h.d)
-# sum(h.h)
-# sum(h.n)
-# 
-# j.d <- j.h <- j.n <- array()
-# for (i in 1:nrow(all.dat)){
-#   j.d[i] <- 3 %in% all.dat[i,2:9] & all.dat[i,27] == 1
-#   j.h[i] <- 3 %in% all.dat[i,2:9] & all.dat[i,27] == 2
-#   j.n[i] <- 3 %in% all.dat[i,2:9] & all.dat[i,27] == 3
-# }
-# sum(j.d)
-# sum(j.h)
-# sum(j.n)
-# 
-# s.d <- s.h <- s.n <- array()
-# for (i in 1:nrow(all.dat)){
-#   s.d[i] <- 4 %in% all.dat[i,2:9] & all.dat[i,27] == 1
-#   s.h[i] <- 4 %in% all.dat[i,2:9] & all.dat[i,27] == 2
-#   s.n[i] <- 4 %in% all.dat[i,2:9] & all.dat[i,27] == 3
-# }
-# sum(s.d)
-# sum(s.h)
-# sum(s.n)
-# 
-# a.d <- a.h <- a.n <- array()
-# for (i in 1:nrow(all.dat)){
-#   a.d[i] <- 5 %in% all.dat[i,2:9] & all.dat[i,27] == 1
-#   a.h[i] <- 5 %in% all.dat[i,2:9] & all.dat[i,27] == 2
-#   a.n[i] <- 5 %in% all.dat[i,2:9] & all.dat[i,27] == 3
-# }
-# sum(a.d)
-# sum(a.h)
-# sum(a.n)
+print(dic1) 
+print(dic2) 
+print(dic3) 
